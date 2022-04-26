@@ -1,0 +1,259 @@
+UF 15.027
+Superficie útil desde: 112,63 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Américo Vespucio Norte 2442 , Vitacura, Metropolitana
+Fecha de entrega: 1er. Trimetre 2021
+Inmobiliaria: Moller & Pérez-Cotapos S.A.
+Construye: Moller & Pérez-Cotapos S.A.
+Arquitecto: ARC Arquitectos
+Cantidad de pisos: 8
+Dividendo estimado: 71,9 UF/mes | Simular
+----------------------------------------
+UF 10.888
+Superficie útil desde: 82,4 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Partenon 1770 , Vitacura, Metropolitana
+Fecha de entrega: primer semestre 2023
+Inmobiliaria: Moller & Pérez-Cotapos S.A.
+Construye: Moller & Pérez-Cotapos S.A.
+Arquitecto: PSG Arquitectos SPA
+Cantidad de pisos: 7
+Dividendo estimado: 52,1 UF/mes | Simular
+----------------------------------------
+UF 4.917
+Superficie útil desde: 40,03 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Av. Las Condes 12170 , Vitacura, Metropolitana
+Fecha de entrega: 2do Semestre 2023
+Inmobiliaria: Neohaus
+Construye: Santa Maria
+Arquitecto: Arquitectos Saénz y Valdes en conjunto con Emilio Soto Calonge.
+Cantidad de pisos: 16
+Dividendo estimado: 23,5 UF/mes | Simular
+----------------------------------------
+UF 21.650
+Superficie útil desde: 169,06 m²
+Desde: 2 Dormitorios, 4 Baños
+Dirección: AV. SAN JOSEMARIA ESCRIVÁ DE BALAGUER 11077 , Vitacura, Metropolitana
+Fecha de entrega: 2do Trimestre 2024
+Inmobiliaria: Sencorp
+Arquitecto: ASL ARQUITECTOS
+Cantidad de pisos: 10
+Dividendo estimado: 103,6 UF/mes | Simular
+----------------------------------------
+UF 9.615
+Superficie útil desde: 84 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Corinto 1820 , Vitacura, Metropolitana
+Fecha de entrega: Entrega Inmediata
+Inmobiliaria: Inmobiliaria Inspira
+Arquitecto: Matías Silva
+Cantidad de pisos: 8
+Dividendo estimado: 46 UF/mes | Simular
+----------------------------------------
+UF 8.884
+Superficie útil desde: 78,87 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: El Nogal 1750 , Vitacura, Metropolitana
+Fecha de entrega: 2do Trimestre 2023
+Inmobiliaria: Inmobiliaria Inspira
+Arquitecto: Matías Silva Arquitectos
+Cantidad de pisos: 8
+Dividendo estimado: 42,5 UF/mes | Simular
+----------------------------------------
+UF 11.697
+Superficie útil desde: 105,72 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Pedro Jesús Rodríguez 411 , Lo Barnechea, Metropolitana
+Fecha de entrega: Entrega Inmediata
+Inmobiliaria: Devisa
+Construye: Constructora Proyekta
+Arquitecto: Armas Elton y Coeymans Arquitectos
+Cantidad de pisos: 4
+Dividendo estimado: 56 UF/mes | Simular
+----------------------------------------
+UF 15.600
+Superficie útil desde: 25,1 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Federico Lathrop 12526, Lo Barnechea , Lo Barnechea, Metropolitana
+Fecha de entrega: Entrega Programada por Pandemia
+Inmobiliaria: Almagro
+Construye: Almagro
+Arquitecto: sin información
+Dividendo estimado: 74,7 UF/mes | Simular
+----------------------------------------
+UF 11.487
+Superficie útil desde: 123,49 m²
+Desde: 3 Dormitorios, 2 Baños
+Dirección: Raúl Labbé 12413 , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Las Américas
+Construye: Ingevec
+Arquitecto: Patric Turner
+Cantidad de pisos: 6
+Dividendo estimado: 55 UF/mes | Simular
+----------------------------------------
+UF 8.392
+Superficie útil desde: 76,33 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Av. El Tranque 12654 , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Inmobiliaria SIP
+Construye: Empresas Guzmán y Larraín Ltda.
+Arquitecto: ARC
+Cantidad de pisos: 4
+Dividendo estimado: 40,2 UF/mes | Simular
+----------------------------------------
+UF 12.335
+Superficie útil desde: 138,98 m²
+Desde: 3 Dormitorios, 4 Baños
+Dirección: El Gabino 13300 , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Amplus Inmobiliaria SpA
+Construye: Constructora SAE
+Arquitecto: SML Arquitectos.
+Cantidad de pisos: 4
+Dividendo estimado: 59 UF/mes | Simular
+----------------------------------------
+UF 19.990
+Superficie construida desde: 224,04 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Camino del Oficio 2981 , Lo Barnechea, Metropolitana
+Fecha de entrega: 2do Semestre 2024
+Inmobiliaria: Alta Inmobiliaria
+Arquitecto: Alta Arquitectura
+Dividendo estimado: 95,7 UF/mes | Simular
+----------------------------------------
+UF 7.979
+Superficie útil desde: 42,66 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Raúl Labbé 12331 , Lo Barnechea, Metropolitana
+Fecha de entrega: Primer Semestre 2022
+Inmobiliaria: Bravo Izquierdo
+Construye: Bravo Izquierdo
+Arquitecto: Archiplan
+Cantidad de pisos: 6
+Dividendo estimado: 38,2 UF/mes | Simular
+----------------------------------------
+UF 5.450
+Superficie útil desde: 43,29 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: AV. Raúl Labbé 12650 , Lo Barnechea, Metropolitana
+Fecha de entrega: Primer Semestre 2022
+Inmobiliaria: PAZ
+Construye: PAZ
+Arquitecto: VialAG Architectural Group
+Dividendo estimado: 26,1 UF/mes | Simular
+----------------------------------------
+UF 26.257
+Superficie construida desde: 254 m²
+Desde: 4 Dormitorios, 4 Baños
+Dirección: Monseñor Adolfo Rodríguez 13259 , Lo Barnechea, Metropolitana
+Fecha de entrega: 2 Semestre 2021
+Inmobiliaria: Propiedades la Parva
+Construye: SAE
+Arquitecto: Osvaldo Fuenzalida y Pablo Larraín
+Dividendo estimado: 125,7 UF/mes | Simular
+----------------------------------------
+UF 6.384
+Superficie útil desde: 49,31 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Av. Las Condes 14745 , Lo Barnechea, Metropolitana
+Fecha de entrega: 2° Semestre 2021
+Inmobiliaria: Inmobiliaria Las Varas
+Construye: Terramayor
+Arquitecto: EM Arquitectos
+Cantidad de pisos: 5
+Dividendo estimado: 30,6 UF/mes | Simular
+----------------------------------------
+UF 5.979
+Superficie útil desde: 49,58 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Pedro Jesús Rodríguez 400 , Lo Barnechea, Metropolitana
+Fecha de entrega: 1er Trimestre 2022
+Inmobiliaria: Fortaleza
+Construye: Fortaleza
+Arquitecto: Squella Arquitectos
+Cantidad de pisos: 5
+Dividendo estimado: 28,6 UF/mes | Simular
+----------------------------------------
+UF 8.080
+Superficie útil desde: 75,88 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Av. El Rodeo 17737 , Lo Barnechea, Metropolitana
+Fecha de entrega: 1er semestre 2022
+Inmobiliaria: Fortaleza
+Construye: Fortaleza
+Arquitecto: Turner Arquitectos
+Cantidad de pisos: 8
+Dividendo estimado: 38,7 UF/mes | Simular
+----------------------------------------
+UF 6.460
+Superficie útil desde: 48,75 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Av. El Rodeo 17737 , Lo Barnechea, Metropolitana
+Fecha de entrega: Último trimestre 2021
+Inmobiliaria: Fortaleza
+Construye: Fortaleza
+Arquitecto: Turner Arquitectos
+Cantidad de pisos: 8
+Dividendo estimado: 30,9 UF/mes | Simular
+----------------------------------------
+UF 16.167
+Superficie útil desde: 146,36 m²
+Desde: 3 Dormitorios, 4 Baños
+Dirección: Camino del cid 4030 , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Manquehue
+Construye: Moller & Pérez-Cotapos S.A.
+Arquitecto: Lira & Stitchkin Arquitectos
+Dividendo estimado: 77,4 UF/mes | Simular
+----------------------------------------
+UF 23.204
+Superficie útil desde: 193 m²
+Desde: 2 Dormitorios, 3 Baños
+Dirección: Av. Punta de Águilas 4000, Los Trapenses , Lo Barnechea, Metropolitana
+Fecha de entrega: 2 Semestre 2022
+Inmobiliaria: Uno Inmobiliaria
+Arquitecto: Gestión Uno
+Cantidad de pisos: 4
+Dividendo estimado: 111,1 UF/mes | Simular
+----------------------------------------
+UF 39.970
+Superficie construida desde: 357,6 m²
+Desde: 5 Dormitorios, 5 Baños
+Dirección: Paseo del Cid 4181, La Dehesa , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Inmobiliaria y Constructora Amanecer S.A.
+Construye: Inmobiliaria y Constructora Amanecer S.A.
+Arquitecto: Renato Stewart y Eugenio Simonetti
+Dividendo estimado: 191,3 UF/mes | Simular
+----------------------------------------
+UF 23.580
+Superficie útil desde: 193 m²
+Desde: 4 Dormitorios, 4 Baños
+Dirección: Pan De Azúcar 10409 , Lo Barnechea, Metropolitana
+Fecha de entrega: 2do Trimestre 2022
+Inmobiliaria: Bersa
+Arquitecto: Jorge Figueroa Arquitectos
+Cantidad de pisos: 4
+Dividendo estimado: 112,9 UF/mes | Simular
+----------------------------------------
+UF 10.957
+Superficie útil desde: 104,57 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Av. La Dehesa 226 , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Security
+Arquitecto: Turner Arquitectos
+Dividendo estimado: 52,4 UF/mes | Simular
+----------------------------------------
+UF 12.050
+Superficie útil desde: 108,7 m²
+Desde: 3 Dormitorios, 2 Baños
+Dirección: El Peral 920 , Lo Barnechea, Metropolitana
+Fecha de entrega: 2do Semestre 2021
+Inmobiliaria: ICG Gestion Inmobiliaria / Proyekta Desarrollo
+Arquitecto: sin información
+Dividendo estimado: 57,7 UF/mes | Simular
+----------------------------------------
