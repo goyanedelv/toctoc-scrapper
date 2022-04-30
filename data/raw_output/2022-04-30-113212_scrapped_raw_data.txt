@@ -1,0 +1,105 @@
+UF 2.733
+Superficie útil desde: 29 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Rosas 1444 , Santiago, Metropolitana
+Fecha de entrega: 1er Trimestre 2024
+Inmobiliaria: Euroinmobiliaria
+Construye: Euroconstructora
+Arquitecto: Euroarquitectura
+Dividendo estimado: 13,1 UF/mes | Simular
+-------------------------------------------------
+UF 2.690
+Superficie útil desde: 32,18 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: General Mackenna 1555, Santiago Centro , Santiago, Metropolitana
+Fecha de entrega: Entrega Programada por Pandemia
+Inmobiliaria: Almagro
+Construye: Almagro
+Arquitecto: Almagro S.A.
+Cantidad de pisos: 27
+Dividendo estimado: 12,9 UF/mes | Simular
+-------------------------------------------------
+UF 5.490
+Superficie útil desde: 82,2 m²
+Desde: 3 Dormitorios, 2 Baños
+Dirección: General Mackenna 1555, Santiago Centro , Santiago, Metropolitana
+Fecha de entrega: Entrega Programada por Pandemia
+Inmobiliaria: Almagro
+Construye: Almagro
+Arquitecto: Almagro S.A.
+Cantidad de pisos: 26
+Dividendo estimado: 26,3 UF/mes | Simular
+-------------------------------------------------
+UF 2.146
+Superficie útil desde: 19,11 m²
+Desde: 0 Dormitorios, 1 Baño
+Dirección: Maule 76 , Santiago, Metropolitana
+Fecha de entrega: 1er Semestre 2023
+Inmobiliaria: Acción Inmobiliaria
+Arquitecto: Guillermo Matta Navarro
+Cantidad de pisos: 15
+Dividendo estimado: 10,3 UF/mes | Simular
+-------------------------------------------------
+UF 2.729
+Superficie útil desde: 29,7 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Santa Elena 1670 , Santiago, Metropolitana
+Fecha de entrega: 2do Trimestre 2023
+Inmobiliaria: Euroinmobiliaria
+Construye: Euroconstructora
+Arquitecto: Euroarquitectura
+Dividendo estimado: 13,1 UF/mes | Simular
+-------------------------------------------------
+UF 2.399
+Superficie útil desde: 28,63 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Manuel Antonio Tocornal 636, Santiago Centro. , Santiago, Metropolitana
+Fecha de entrega:
+Inmobiliaria: Aconcagua
+Construye: Aconcagua
+Arquitecto: sin información
+Dividendo estimado: 11,5 UF/mes | Simular
+-------------------------------------------------
+UF 2.450
+Superficie útil desde: 25,9 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Santa Elena 962, Santiago , Santiago, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Almagro
+Construye: Almagro
+Arquitecto: Almagro S.A.
+Cantidad de pisos: 12
+Dividendo estimado: 11,7 UF/mes | Simular
+-------------------------------------------------
+UF 3.410
+Superficie útil desde: 35 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Domeyko 2010, Santiago Centro , Santiago, Metropolitana
+Fecha de entrega: 2do Semestre 2021
+Inmobiliaria: Almagro
+Construye: Almagro
+Arquitecto: Almagro S.A.
+Cantidad de pisos: 9
+Dividendo estimado: 16,3 UF/mes | Simular
+-------------------------------------------------
+UF 6.840
+Superficie útil desde: 72,02 m²
+Desde: 3 Dormitorios, 2 Baños
+Dirección: Gay 1971, Santiago Centro , Santiago, Metropolitana
+Fecha de entrega: Entrega Programada por Pandemia
+Inmobiliaria: Almagro
+Construye: Almagro
+Arquitecto: Almagro S.A.
+Cantidad de pisos: 9
+Dividendo estimado: 32,7 UF/mes | Simular
+-------------------------------------------------
+UF 2.642
+Superficie útil desde: 30,62 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Chiloé 1464 , Santiago, Metropolitana
+Fecha de entrega: 1er Semestre 2023
+Inmobiliaria: Absal Inmobiliaria
+Arquitecto: Patrick Robertson
+Cantidad de pisos: 5
+Dividendo estimado: 12,6 UF/mes | Simular
+-------------------------------------------------

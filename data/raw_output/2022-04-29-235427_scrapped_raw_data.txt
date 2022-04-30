@@ -1,0 +1,804 @@
+UF 4.940
+Superficie útil desde: 66,07 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Rojas Magallanes 2457 , La Florida, Metropolitana
+Fecha de entrega: 2do Semestre 2022
+Inmobiliaria: Convet
+Construye: Convet
+Arquitecto: Eugenio Robertson Coo
+Cantidad de pisos: 5
+Dividendo estimado: 23,6 UF/mes | Simular
+-------------------------------------------------
+UF 2.817
+Superficie útil desde: 34,9 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Vicuña Mackenna 9008 , La Florida, Metropolitana
+Fecha de entrega: 1er Semestre 2024
+Inmobiliaria: Icafal
+Arquitecto: sin información
+Dividendo estimado: 13,5 UF/mes | Simular
+-------------------------------------------------
+UF 2.812
+Superficie útil desde: 33,84 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Vicuña Mackenna 8656 , La Florida, Metropolitana
+Fecha de entrega: 2do Semestre 2023
+Inmobiliaria: Convet
+Construye: Convet
+Arquitecto: Russo Arquitectura Ltda.
+Cantidad de pisos: 11
+Dividendo estimado: 13,5 UF/mes | Simular
+-------------------------------------------------
+UF 2.541
+Superficie útil desde: 35,9 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Ines De Suarez 7858 , La Florida, Metropolitana
+Fecha de entrega: 1er Semestre 2023
+Inmobiliaria: Icafal
+Construye: Icafal
+Arquitecto: sin información
+Cantidad de pisos: 8
+Dividendo estimado: 12,2 UF/mes | Simular
+-------------------------------------------------
+UF 2.582
+Superficie útil desde: 31,75 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Colombia 7563 , La Florida, Metropolitana
+Fecha de entrega: 1 Semestre 2021
+Inmobiliaria: Convet
+Construye: Convet
+Arquitecto: Andrés Kraushaar
+Cantidad de pisos: 17
+Dividendo estimado: 12,4 UF/mes | Simular
+-------------------------------------------------
+UF 4.033
+Superficie útil desde: 58,71 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Rojas Magallanes 2085 , La Florida, Metropolitana
+Fecha de entrega: Ultimo trimestre de 2020
+Inmobiliaria: Convet
+Construye: Convet
+Arquitecto: sin información
+Cantidad de pisos: 7
+Dividendo estimado: 19,3 UF/mes | Simular
+-------------------------------------------------
+UF 2.748
+Superficie útil desde: 28,9 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Lía Aguirre 384 , La Florida, Metropolitana
+Fecha de entrega: 1er Semestre 2025
+Inmobiliaria: Inmobiliaria Habite
+Construye: Constructora Terra
+Arquitecto: sin información
+Dividendo estimado: 13,2 UF/mes | Simular
+-------------------------------------------------
+UF 2.779
+Superficie útil desde: 30,49 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Av. Vicuña Mackenna poniente 6665 6665 , La Florida, Metropolitana
+Fecha de entrega: 2do semestre 2024
+Inmobiliaria: Imagina Grupo Inmobiliario
+Construye: Imagina Grupo Inmobiliario
+Arquitecto: Inmobiliaria Imagina
+Cantidad de pisos: 16
+Dividendo estimado: 13,3 UF/mes | Simular
+-------------------------------------------------
+UF 3.263
+Superficie útil desde: 48,18 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: El Hualle Norte 7895 , La Florida, Metropolitana
+Fecha de entrega:
+Inmobiliaria: Aconcagua
+Construye: Aconcagua
+Arquitecto: sin información
+Dividendo estimado: 15,6 UF/mes | Simular
+-------------------------------------------------
+UF 2.527
+Superficie útil desde: 36,2 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Trinidad Oriente 1533 , La Florida, Metropolitana
+Fecha de entrega: 1 Semestre 2022
+Inmobiliaria: Icafal
+Arquitecto: sin información
+Cantidad de pisos: 8
+Dividendo estimado: 12,1 UF/mes | Simular
+-------------------------------------------------
+UF 2.233
+Superficie útil desde: 25,14 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Av. Vicuña Mackenna 7197 , La Florida, Metropolitana
+Fecha de entrega: 2do Semestre 2024
+Inmobiliaria: Exxacon
+Arquitecto: Archiplan
+Cantidad de pisos: 14
+Dividendo estimado: 10,7 UF/mes | Simular
+-------------------------------------------------
+UF 2.301
+Superficie útil desde: 25,72 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Paso el Roble 187 , La Florida, Metropolitana
+Fecha de entrega: 01/04/22
+Inmobiliaria: Inmobiliaria SIP
+Construye: Mena y Ovalle
+Arquitecto: Balbontín y Dominguez Arquitectura
+Cantidad de pisos: 19
+Dividendo estimado: 11 UF/mes | Simular
+-------------------------------------------------
+UF 2.205
+Superficie útil desde: 31,56 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Vicuña Mackenna Oriente 6617 , La Florida, Metropolitana
+Fecha de entrega: 2do semestre 2023
+Inmobiliaria: Gimax
+Construye: Ingevec
+Arquitecto: Pablo Gellona
+Cantidad de pisos: 17
+Dividendo estimado: 10,6 UF/mes | Simular
+-------------------------------------------------
+UF 2.440
+Superficie útil desde: 33,17 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Froilán Roa 6333 , La Florida, Metropolitana
+Fecha de entrega: 2do semestre 2023
+Inmobiliaria: Simonetti Inmobiliaria
+Construye: Simonetti Inmobiliaria
+Arquitecto: sin información
+Cantidad de pisos: 22
+Dividendo estimado: 11,7 UF/mes | Simular
+-------------------------------------------------
+UF 2.034
+Superficie útil desde: 23,08 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Liverpool 60 , La Florida, Metropolitana
+Fecha de entrega: 1er Semestre 2023
+Inmobiliaria: Inmobiliaria Nollagam Ltda.
+Construye: Constructora Nollagam Ltda.
+Arquitecto: Dörner, Oyarzun y Aguilera Arquitectos Asociados
+Dividendo estimado: 09,7 UF/mes | Simular
+-------------------------------------------------
+UF 2.470
+Superficie útil desde: 26,82 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Froilán Roa 1201 , La Florida, Metropolitana
+Fecha de entrega: 2do Semestre 2026
+Inmobiliaria: Fundamenta
+Arquitecto: sin información
+Dividendo estimado: 11,8 UF/mes | Simular
+-------------------------------------------------
+UF 2.363
+Superficie útil desde: 28,2 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Froilán Roa 1201 , La Florida, Metropolitana
+Fecha de entrega: 2do Semestre 2026
+Inmobiliaria: Fundamenta
+Arquitecto: sin información
+Dividendo estimado: 11,3 UF/mes | Simular
+-------------------------------------------------
+UF 2.364
+Superficie útil desde: 31,91 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Av. Vicuña Mackenna 10811 , La Florida, Metropolitana
+Fecha de entrega: 2do Semestre 2023
+Inmobiliaria: Siena Inmobiliaria
+Construye: Siena Constructora
+Arquitecto: G8
+Dividendo estimado: 11,3 UF/mes | Simular
+-------------------------------------------------
+UF 4.221
+Superficie útil desde: 59,03 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Walker Martinez 1100 , La Florida, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Siena Inmobiliaria
+Construye: Siena Inmobiliaria
+Arquitecto: G8
+Dividendo estimado: 20,2 UF/mes | Simular
+-------------------------------------------------
+UF 2.561
+Superficie útil desde: 38,02 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Colombia 7664 , La Florida, Metropolitana
+Fecha de entrega: 2do Semestre 2023
+Inmobiliaria: PAZ
+Construye: PAZ
+Arquitecto: Arquitectura PAZ
+Cantidad de pisos: 12
+Dividendo estimado: 12,3 UF/mes | Simular
+-------------------------------------------------
+UF 2.528
+Superficie útil desde: 33,42 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Alonso de Ercilla 7698 , La Florida, Metropolitana
+Fecha de entrega: 2do Semestre 2023
+Inmobiliaria: NeoUrbe
+Construye: Santolaya Ltda.
+Arquitecto: G8 Arquitectos
+Dividendo estimado: 12,1 UF/mes | Simular
+-------------------------------------------------
+UF 3.307
+Superficie útil desde: 49,93 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Ongolmo 7290 , La Florida, Metropolitana
+Fecha de entrega: 1 Semestre 2022
+Inmobiliaria: Inmobiliaria Cantauco Ltda.
+Arquitecto: Arquitectura Urbana
+Cantidad de pisos: 4
+Dividendo estimado: 15,8 UF/mes | Simular
+-------------------------------------------------
+UF 2.450
+Superficie útil desde: 30,31 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Vicuña Mackenna 6110 , La Florida, Metropolitana
+Fecha de entrega: 2do Semestre 2024.
+Inmobiliaria: Trayecta
+Construye: EBCO
+Arquitecto: sin información
+Cantidad de pisos: 20
+Dividendo estimado: 11,7 UF/mes | Simular
+-------------------------------------------------
+UF 2.438
+Superficie útil desde: 39,49 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Av. Vicuña Mackenna 8833 , La Florida, Metropolitana
+Fecha de entrega: 1er Semestre 2023
+Inmobiliaria: E. Molina Morel Inmobiliaria LTDA
+Construye: E. Molina Morel Constructora
+Arquitecto: Eugenio Molina Villaseca
+Dividendo estimado: 11,7 UF/mes | Simular
+-------------------------------------------------
+UF 2.412
+Superficie útil desde: 34,54 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Av. Departamental con Av. La Florida , La Florida, Metropolitana
+Fecha de entrega: 2do Semestre 2026
+Inmobiliaria: Boetsch
+Arquitecto: sin información
+Dividendo estimado: 11,5 UF/mes | Simular
+-------------------------------------------------
+UF 2.480
+Superficie útil desde: 34,55 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Santa Victoria 9615 , La Florida, Metropolitana
+Fecha de entrega: Segundo semestre 2023
+Inmobiliaria: Terracorp
+Construye: Terracorp
+Arquitecto: Arquiproyectos
+Cantidad de pisos: 8
+Dividendo estimado: 11,9 UF/mes | Simular
+-------------------------------------------------
+UF 2.312
+Superficie útil desde: 31,69 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Av. Departamental 1475 , La Florida, Metropolitana
+Fecha de entrega: 2° semestre 2022
+Inmobiliaria: Inmobiliaria Lunia Lifetime Spaces
+Construye: Isa Constructora
+Arquitecto: Uriarte & García Arquitectura
+Dividendo estimado: 11,1 UF/mes | Simular
+-------------------------------------------------
+UF 2.386
+Superficie útil desde: 34,84 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: La concepción 7663 , La Florida, Metropolitana
+Fecha de entrega: 2do semestre 2023
+Inmobiliaria: Gimax
+Construye: Ingevec
+Arquitecto: Pablo Gellona Vial
+Cantidad de pisos: 18
+Dividendo estimado: 11,4 UF/mes | Simular
+-------------------------------------------------
+UF 2.297
+Superficie útil desde: 25,37 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Gerónimo de Alderete 204 , La Florida, Metropolitana
+Fecha de entrega: 2 Semestre 2025
+Inmobiliaria: Terrafirme
+Construye: Terrafirme
+Arquitecto: Jose Luis Corvalán / M. Soledad Nuñez
+Dividendo estimado: 11 UF/mes | Simular
+-------------------------------------------------
+UF 3.550
+Superficie útil desde: 40,1 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Camino del Monte 6318 , La Florida, Metropolitana
+Fecha de entrega: 2do trimestre 2023.
+Inmobiliaria: Sinergía Inmobiliaria S.A
+Construye: Queylén
+Arquitecto: Estudio Valdés
+Dividendo estimado: 17 UF/mes | Simular
+-------------------------------------------------
+UF 8.850
+Superficie construida desde: 105,9 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Camino del Monte 6318 , La Florida, Metropolitana
+Fecha de entrega: Inmediata y 2do Semestre 2023
+Inmobiliaria: Sinergía Inmobiliaria S.A
+Construye: Queylén
+Arquitecto: Estudio Urbano
+Dividendo estimado: 42,4 UF/mes | Simular
+-------------------------------------------------
+UF 10.950
+Superficie construida desde: 159 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Camino del Monte 6318 , La Florida, Metropolitana
+Fecha de entrega: 2do Semestre 2024
+Inmobiliaria: Sinergía Inmobiliaria S.A
+Arquitecto: Estudio Urbano
+Dividendo estimado: 52,4 UF/mes | Simular
+-------------------------------------------------
+UF 2.408
+Superficie útil desde: 41,12 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Calle Dos 33 , La Florida, Metropolitana
+Fecha de entrega: 2do Semestre 2022
+Inmobiliaria: E. Molina Morel Inmobiliaria LTDA
+Construye: E. Molina Morel Inmobiliaria LTDA
+Arquitecto: Sebastian Guevara Sinclair
+Cantidad de pisos: 11
+Dividendo estimado: 11,5 UF/mes | Simular
+-------------------------------------------------
+UF 3.164
+Superficie útil desde: 43,98 m²
+Desde: 2 Dormitorios, 1 Baño
+Dirección: Santa Amalia 317 , La Florida, Metropolitana
+Fecha de entrega: 1er Semestre 2023
+Inmobiliaria: Inmobiliaria Simetria
+Construye: Constructora Pebal SpA
+Arquitecto: Juan Manuel Llodrá Bourie
+Cantidad de pisos: 5
+Dividendo estimado: 15,1 UF/mes | Simular
+-------------------------------------------------
+UF 2.700
+Superficie útil desde: 39,39 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Colombia 8863 , La Florida, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Aitue
+Construye: EBCO
+Arquitecto: Fluxa
+Cantidad de pisos: 5
+Dividendo estimado: 12,9 UF/mes | Simular
+-------------------------------------------------
+UF 2.227
+Superficie útil desde: 32,22 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Lía Aguirre 155 , La Florida, Metropolitana
+Fecha de entrega: Cuarto trimestre 2023
+Inmobiliaria: RVC
+Arquitecto: sin información
+Dividendo estimado: 10,7 UF/mes | Simular
+-------------------------------------------------
+UF 2.735
+Superficie útil desde: 54,15 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Vicuña Mackenna 11454 , La Florida, Metropolitana
+Fecha de entrega:
+Inmobiliaria: Inmobiliaria Todos Los Santos
+Construye: Constructora VAIN-ARM
+Arquitecto: Vain-Arm
+Cantidad de pisos: 11
+Dividendo estimado: 13,1 UF/mes | Simular
+-------------------------------------------------
+UF 2.612
+Superficie útil desde: 36,68 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Colombia 8863 , La Florida, Metropolitana
+Fecha de entrega: 2do Semestre 2023
+Inmobiliaria: Aitue
+Construye: EBCO
+Arquitecto: Fluxa
+Cantidad de pisos: 5
+Dividendo estimado: 12,5 UF/mes | Simular
+-------------------------------------------------
+UF 2.461
+Superficie útil desde: 53 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Punta Arenas 6600 , La Florida, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Inmobiliaria Todos Los Santos
+Arquitecto: Vain-Arm
+Cantidad de pisos: 14
+Dividendo estimado: 11,8 UF/mes | Simular
+-------------------------------------------------
+UF 2.679
+Superficie útil desde: 31,07 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Américo Vespucio 6750 , La Florida, Metropolitana
+Fecha de entrega: 2do Semestre 2023
+Inmobiliaria: Uno Inmobiliaria
+Arquitecto: Uno Inmobiliaria
+Dividendo estimado: 12,8 UF/mes | Simular
+-------------------------------------------------
+UF 4.621
+Superficie útil desde: 59,01 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Llanquihue 6290 , La Florida, Metropolitana
+Fecha de entrega: 1er Semestre 2023
+Inmobiliaria: Grupo Activa
+Arquitecto: sin información
+Dividendo estimado: 22,1 UF/mes | Simular
+-------------------------------------------------
+UF 2.375
+Superficie útil desde: 33,13 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Atahualpa 396 , La Florida, Metropolitana
+Fecha de entrega: finales de 2021
+Inmobiliaria: Land Capital
+Arquitecto: sin información
+Dividendo estimado: 11,4 UF/mes | Simular
+-------------------------------------------------
+UF 2.470
+Superficie útil desde: 30,25 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Pudeto 6908 , La Florida, Metropolitana
+Fecha de entrega: 2do Semestre 2023
+Inmobiliaria: Inmobiliaria Núcleos
+Construye: Ingevec
+Arquitecto: Miguel Alemparte Lyon
+Cantidad de pisos: 17
+Dividendo estimado: 11,8 UF/mes | Simular
+-------------------------------------------------
+UF 1.870
+Superficie útil desde: 20,15 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Avda. Vicuña Mackenna Oriente 6480 , La Florida, Metropolitana
+Fecha de entrega: 1er Semestre 2024
+Inmobiliaria: Inmobiliaria Lo Campino
+Arquitecto: sin información
+Cantidad de pisos: 17
+Dividendo estimado: 09 UF/mes | Simular
+-------------------------------------------------
+UF 2.245
+Superficie útil desde: 30,53 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Vicuña Mackenna Poniente 6190 , La Florida, Metropolitana
+Fecha de entrega:
+Inmobiliaria: Inmobiliaria S2 Ltda
+Arquitecto: sin información
+Cantidad de pisos: 11
+Dividendo estimado: 10,7 UF/mes | Simular
+-------------------------------------------------
+UF 3.121
+Superficie útil desde: 51,59 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Calle Barcelona 160 , La Florida, Metropolitana
+Fecha de entrega: 4° Trimestre 2020
+Inmobiliaria: Bricsa
+Arquitecto: sin información
+Dividendo estimado: 14,9 UF/mes | Simular
+-------------------------------------------------
+UF 2.529
+Superficie útil desde: 32,92 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Mirador Azul 475 , La Florida, Metropolitana
+Fecha de entrega: 3 Trimestre 2022
+Inmobiliaria: Absalon Inmobiliaria
+Construye: Absalon Inmobiliaria
+Arquitecto: sin información
+Cantidad de pisos: 15
+Dividendo estimado: 12,1 UF/mes | Simular
+-------------------------------------------------
+UF 2.305
+Superficie útil desde: 27,7 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Av. Vicuña Mackenna Oriente 6711 , La Florida, Metropolitana
+Fecha de entrega: 4to Trimestre 2022
+Inmobiliaria: Eje Inmobiliaria
+Arquitecto: sin información
+Dividendo estimado: 11 UF/mes | Simular
+-------------------------------------------------
+UF 2.560
+Superficie útil desde: 31,52 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Vicuña Mackenna 6130 , La Florida, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: CBS inmobiliaria
+Construye: Constructora Ingevec
+Arquitecto: sin información
+Cantidad de pisos: 17
+Dividendo estimado: 12,3 UF/mes | Simular
+-------------------------------------------------
+UF 2.500
+Superficie útil desde: 46,78 m²
+Desde: 1 Dormitorio, 2 Baños
+Dirección: Tobalaba 7300 , La Florida, Metropolitana
+Fecha de entrega: Por confirmar
+Inmobiliaria: BEG
+Arquitecto: sin información
+Dividendo estimado: 12 UF/mes | Simular
+-------------------------------------------------
+UF 5.750
+Superficie útil desde: 73,27 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Palena 3380 , La Florida, Metropolitana
+Fecha de entrega: 2 Semestre 2023
+Inmobiliaria: Inmobiliaria e Inversiones Conoma Ltda.
+Arquitecto: sin información
+Dividendo estimado: 27,5 UF/mes | Simular
+-------------------------------------------------
+UF 3.858
+Superficie útil desde: 61,1 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: El Hualle 8039 , La Florida, Metropolitana
+Fecha de entrega: 1 Semestre 2021
+Inmobiliaria: Aumenta
+Construye: Aumenta
+Arquitecto: Nicolás Loi
+Dividendo estimado: 18,5 UF/mes | Simular
+-------------------------------------------------
+UF 4.455
+Superficie útil desde: 70,58 m²
+Desde: 3 Dormitorios, 2 Baños
+Dirección: Andalién 7320 , La Florida, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Basco Inmobiliaria Ltda.
+Construye: Constructora Basco S.A.
+Arquitecto: Percy Castelblanco Koch
+Cantidad de pisos: 5
+Dividendo estimado: 21,3 UF/mes | Simular
+-------------------------------------------------
+UF 2.960
+Superficie útil desde: 53,19 m²
+Desde: 1 Dormitorio, 2 Baños
+Dirección: Avenida Vicuña Mackenna 7735 , La Florida, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: 21 Gestión Inmobiliaria
+Arquitecto: Octavio Pérez
+Dividendo estimado: 14,2 UF/mes | Simular
+-------------------------------------------------
+UF 3.053
+Superficie útil desde: 47,3 m²
+Desde: 2 Dormitorios, 1 Baño
+Dirección: Inés de Suárez 7763 , La Florida, Metropolitana
+Fecha de entrega: Entrega inmediata
+Inmobiliaria: Inmobiliaria Ines de Suarez
+Construye: Diaz Cumsille Inmobiliaria y Constructora S.A.
+Arquitecto: Varela Asociadoscción S.A.
+Dividendo estimado: 14,6 UF/mes | Simular
+-------------------------------------------------
+UF 2.578
+Superficie útil desde: 35,84 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Santa Victoria 9670 , La Florida, Metropolitana
+Fecha de entrega: 2do Semestre 2024
+Inmobiliaria: Vive Tu Barrio Desarrollo Inmobiliario
+Arquitecto: sin información
+Dividendo estimado: 12,3 UF/mes | Simular
+-------------------------------------------------
+UF 2.200
+Superficie útil desde: 28 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Sta Inés 3577 , La Florida, Metropolitana
+Fecha de entrega: 2 Semestre 2023
+Inmobiliaria: Inmobiliaria Los Silos
+Arquitecto: sin información
+Dividendo estimado: 10,5 UF/mes | Simular
+-------------------------------------------------
+UF 3.123
+Superficie útil desde: 47,27 m²
+Desde: 2 Dormitorios, 1 Baño
+Dirección: Santa Victoria 9448 , La Florida, Metropolitana
+Fecha de entrega: 2021
+Inmobiliaria: Vive Tu Barrio Desarrollo Inmobiliario
+Construye: CS Construcción SpA
+Arquitecto: OVM Arquitecture Management S.A
+Cantidad de pisos: 8
+Dividendo estimado: 14,9 UF/mes | Simular
+-------------------------------------------------
+UF 3.053
+Superficie útil desde: 47,86 m²
+Desde: 2 Dormitorios, 1 Baño
+Dirección: Av. Vicuña Mackenna 8840 , La Florida, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Constructora Ignacio Hurtado
+Construye: Constructora Ignacio Hurtado
+Arquitecto: Lira Arquitectos
+Cantidad de pisos: 10
+Dividendo estimado: 14,6 UF/mes | Simular
+-------------------------------------------------
+UF 2.422
+Superficie útil desde: 37 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Vicuña Mackenna 8940 , La Florida, Metropolitana
+Fecha de entrega: 2 Semestre 2022
+Inmobiliaria: Ing. Y Cons. Nahmias Hnos.
+Arquitecto: sin información
+Cantidad de pisos: 11
+Dividendo estimado: 11,6 UF/mes | Simular
+-------------------------------------------------
+UF 3.377
+Superficie útil desde: 58,55 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Vicuña Mackenna 9060 , La Florida, Metropolitana
+Fecha de entrega: 2 Trimestre 2021
+Inmobiliaria: Megapro
+Construye: EBCO
+Arquitecto: MW | Arquitectos
+Cantidad de pisos: 10
+Dividendo estimado: 16,2 UF/mes | Simular
+-------------------------------------------------
+UF 2.847
+Superficie útil desde: 37,6 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Vicuña Mackenna 8597 , La Florida, Metropolitana
+Fecha de entrega: 1 Semestre 2021
+Inmobiliaria: Echeverría Izquierdo
+Construye: Echeverría Izquierdo
+Arquitecto: Arturo Cox
+Dividendo estimado: 13,6 UF/mes | Simular
+-------------------------------------------------
+UF 2.959
+Superficie útil desde: 44,76 m²
+Desde: 2 Dormitorios, 1 Baño
+Dirección: Walker Martínez 1620 , La Florida, Metropolitana
+Fecha de entrega: 1° Trimestre 2021
+Inmobiliaria: Isiete Grupo Inmobiliario
+Construye: Echeverría Izquierdo
+Arquitecto: Isiete Grupo Inmobiliario
+Cantidad de pisos: 8
+Dividendo estimado: 14,2 UF/mes | Simular
+-------------------------------------------------
+UF 3.758
+Superficie útil desde: 47,8 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: García Hurtado de Mendoza 7760 , La Florida, Metropolitana
+Fecha de entrega: 2do Semestre 2023
+Inmobiliaria: Inmobiliaria e Inversiones Conoma Ltda.
+Arquitecto: sin información
+Dividendo estimado: 18 UF/mes | Simular
+-------------------------------------------------
+UF 3.212
+Superficie útil desde: 37,18 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Vicente Valdes 848 , La Florida, Metropolitana
+Fecha de entrega: 2do Trimestre 2022
+Inmobiliaria: Grupo Inmobiliario Santafe
+Construye: Constructora Santa Fe
+Arquitecto: Lira y Tuckermann Arquitectos
+Cantidad de pisos: 8
+Dividendo estimado: 15,4 UF/mes | Simular
+-------------------------------------------------
+UF 2.656
+Superficie útil desde: 28,9 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Okinawa 6930 , La Florida, Metropolitana
+Fecha de entrega: 1 Semestre 2023
+Inmobiliaria: Leben Grupo Inmobiliario
+Construye: Constructora AP
+Arquitecto: Felipe Labra
+Cantidad de pisos: 8
+Dividendo estimado: 12,7 UF/mes | Simular
+-------------------------------------------------
+UF 2.884
+Superficie útil desde: 31,72 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Alonso de Ercilla 7935 , La Florida, Metropolitana
+Fecha de entrega: 2° semestre 2023
+Inmobiliaria: Inmobiliaria FG
+Arquitecto: sin información
+Cantidad de pisos: 8
+Dividendo estimado: 13,8 UF/mes | Simular
+-------------------------------------------------
+UF 2.914
+Superficie útil desde: 35,01 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Walker Martinez 1155 , La Florida, Metropolitana
+Fecha de entrega: 1er Trimestre 2021
+Inmobiliaria: Grupo Inmobiliario Santafe
+Construye: Grupo Inmobiliario Santafe
+Arquitecto: sin información
+Cantidad de pisos: 14
+Dividendo estimado: 13,9 UF/mes | Simular
+-------------------------------------------------
+UF 2.688
+Superficie útil desde: 33,88 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Walker Martínez 911 , La Florida, Metropolitana
+Fecha de entrega: 4° Trimestre 2021
+Inmobiliaria: Socovesa
+Construye: Socovesa
+Arquitecto: SOCOVESA
+Cantidad de pisos: 14
+Dividendo estimado: 12,9 UF/mes | Simular
+-------------------------------------------------
+UF 3.558
+Superficie útil desde: 56,89 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: García Hurtado de Mendoza 8227 , La Florida, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Inmobiliaria M 71 SpA
+Construye: Constructora VRK SpA
+Arquitecto: Dennys Hermosilla
+Cantidad de pisos: 6
+Dividendo estimado: 17 UF/mes | Simular
+-------------------------------------------------
+UF 5.854
+Superficie construida desde: 111,57 m²
+Desde: 4 Dormitorios, 2 Baños
+Dirección: Palena 3030 , La Florida, Metropolitana
+Fecha de entrega: 2 Semestre 2021
+Inmobiliaria: Inmobiliaria Vive Palena SpA
+Construye: Constructora SAE
+Arquitecto: Talhouk + Arquitectos Asociados / Giacomo Visone
+Dividendo estimado: 28 UF/mes | Simular
+-------------------------------------------------
+UF 5.690
+Superficie construida desde: 46,33 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Alicahue 7280 , La Florida, Metropolitana
+Fecha de entrega: Julio 2021
+Inmobiliaria: Rimaza Grupo Inmobiliario S.A
+Arquitecto: sin información
+Dividendo estimado: 27,2 UF/mes | Simular
+-------------------------------------------------
+UF 3.821
+Superficie útil desde: 54,59 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Avenida La Florida 9423 , La Florida, Metropolitana
+Fecha de entrega: 01 Abril 2021
+Inmobiliaria: Socovesa
+Construye: Socovesa
+Arquitecto: Daniel Álamos
+Cantidad de pisos: 10
+Dividendo estimado: 18,3 UF/mes | Simular
+-------------------------------------------------
+UF 2.939
+Superficie útil desde: 52,17 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Gerónimo De Alderete 1800 , La Florida, Metropolitana
+Fecha de entrega: 1er semestre 2021
+Inmobiliaria: Absalon Inmobiliaria
+Construye: Absalon Inmobiliaria
+Arquitecto: Espinosa Garuti Arquitectos
+Cantidad de pisos: 11
+Dividendo estimado: 14,1 UF/mes | Simular
+-------------------------------------------------
+UF 4.900
+Superficie útil desde: 63,8 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Avenida Walker Martínez 3142 , La Florida, Metropolitana
+Fecha de entrega: 2do Semestre 2020
+Inmobiliaria: Grupo Activa
+Construye: Galco Ingenieria y Constucción S.A.
+Arquitecto: REC Arquitectos
+Dividendo estimado: 23,5 UF/mes | Simular
+-------------------------------------------------
+UF 5.625
+Superficie construida desde: 100,4 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Panamá 9106 , La Florida, Metropolitana
+Fecha de entrega: 1 Trimestre 2020
+Inmobiliaria: Inmobiliaria Puertas de La Florida
+Arquitecto: Juan Pablo Merino
+Dividendo estimado: 26,9 UF/mes | Simular
+-------------------------------------------------
+UF 2.834
+Superficie útil desde: 31,21 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Av. Departamental 797 , La Florida, Metropolitana
+Fecha de entrega: 2 Semestre 2021
+Inmobiliaria: ICALMA
+Construye: EBCO
+Arquitecto: sin información
+Cantidad de pisos: 21
+Dividendo estimado: 13,6 UF/mes | Simular
+-------------------------------------------------
+UF 11.600
+Superficie construida desde: 140 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Las Nalcas Sur 9477 , La Florida, Metropolitana
+Fecha de entrega: 1 Trimestre 2021
+Inmobiliaria: Mena y Ovalle
+Construye: Mena y Ovalle
+Arquitecto: Werner Arquitectos
+Dividendo estimado: 55,5 UF/mes | Simular
+-------------------------------------------------
+UF 2.928
+Superficie útil desde: 37,22 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Av. La Florida 10695 , La Florida, Metropolitana
+Fecha de entrega:
+Inmobiliaria: ICuadra
+Arquitecto: sin información
+Dividendo estimado: 14 UF/mes | Simular
+-------------------------------------------------

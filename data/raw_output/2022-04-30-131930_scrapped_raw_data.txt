@@ -1,0 +1,2810 @@
+UF 17,5
+$ 555.289
+Año: 1992
+Dormitorios 7
+Baños 2
+Metros construidos: 220 m²
+Superficie Terreno: 500 m²
+Fecha publicación: 15-03-2022
+Dividendo estimado: 00,4 UF/mes | Simular
+-------------------------------------------------
+UF 22.000
+$ 698.077.600
+Dormitorios 3
+Baños 3
+Metros construidos: 266 m²
+Metros Útiles: 221,4 m²
+Fecha publicación: 28-03-2022
+Dividendo estimado: 105,3 UF/mes | Simular
+-------------------------------------------------
+UF 32.000
+$ 1.015.385.600
+Dormitorios 5
+Baños 5
+Metros construidos: 300 m²
+Superficie Terraza: 120 m²
+Fecha publicación: 17-08-2018
+Dividendo estimado: 153,2 UF/mes | Simular
+-------------------------------------------------
+UF 21.500
+$ 682.212.200
+Dormitorios 3
+Baños 3
+Metros construidos: 267 m²
+Metros Útiles: 216 m²
+Superficie Terraza: 60 m²
+Fecha publicación: 21-08-2019
+Dividendo estimado: 102,9 UF/mes | Simular
+-------------------------------------------------
+UF 20.900
+$ 663.173.720
+Dormitorios 4
+Baños 4
+Metros construidos: 266,2 m²
+Metros Útiles: 221,4 m²
+Fecha publicación: 28-03-2022
+Dividendo estimado: 100 UF/mes | Simular
+-------------------------------------------------
+UF 27.000
+$ 856.731.600
+Dormitorios 6
+Baños 6
+Metros construidos: 540 m²
+Metros Útiles: 340 m²
+Fecha publicación: 08-03-2022
+Dividendo estimado: 129,2 UF/mes | Simular
+-------------------------------------------------
+UF 17.500
+$ 555.289.000
+Dormitorios 6
+Baños 2
+Superficie Terreno: 500 m²
+Metros Útiles: 220 m²
+Fecha publicación: 12-04-2022
+Dividendo estimado: 83,8 UF/mes | Simular
+-------------------------------------------------
+UF 12.500
+$ 396.635.000
+Dormitorios 3
+Baños 3
+Metros construidos: 160 m²
+Metros Útiles: 110 m²
+Fecha publicación: 08-03-2022
+Dividendo estimado: 59,8 UF/mes | Simular
+-------------------------------------------------
+UF 12.500
+$ 396.635.000
+Dormitorios 3
+Baños 3
+Superficie Terreno: 160 m²
+Metros Útiles: 110 m²
+Fecha publicación: 09-04-2022
+Dividendo estimado: 59,8 UF/mes | Simular
+-------------------------------------------------
+UF 24.200
+$ 767.885.360
+Dormitorios 6
+Baños 5
+Superficie Terreno: 450 m²
+Metros Útiles: 210 m²
+Fecha publicación: 26-04-2022
+Dividendo estimado: 115,8 UF/mes | Simular
+-------------------------------------------------
+UF 18.800
+$ 596.539.040
+Dormitorios 4
+Baños 6
+Metros construidos: 190 m²
+Superficie Terreno: 302 m²
+Fecha publicación: 01-04-2022
+Dividendo estimado: 90 UF/mes | Simular
+-------------------------------------------------
+UF 22.000
+$ 698.077.600
+Dormitorios 5
+Baños 3
+Superficie Terreno: 504 m²
+Metros Útiles: 220 m²
+Fecha publicación: 27-03-2022
+Dividendo estimado: 105,3 UF/mes | Simular
+-------------------------------------------------
+UF 25.000
+$ 793.270.000
+Dormitorios 5
+Baños 5
+Metros construidos: 315 m²
+Metros Útiles: 295 m²
+Fecha publicación: 19-12-2019
+Dividendo estimado: 119,7 UF/mes | Simular
+-------------------------------------------------
+UF 17.100
+$ 542.596.680
+Dormitorios 3
+Baños 3
+Metros construidos: 208,4 m²
+Metros Útiles: 168,4 m²
+Fecha publicación: 19-02-2020
+Dividendo estimado: 81,9 UF/mes | Simular
+-------------------------------------------------
+UF 21.900
+$ 694.904.520
+Dormitorios 4
+Baños 4
+Metros Útiles: 300 m²
+Fecha publicación: 08-04-2022
+Dividendo estimado: 104,8 UF/mes | Simular
+-------------------------------------------------
+UF 9.500
+$ 301.442.600
+Dormitorios 3
+Baños 2
+Metros construidos: 193 m²
+Metros Útiles: 93 m²
+Fecha publicación: 21-07-2020
+Dividendo estimado: 45,5 UF/mes | Simular
+-------------------------------------------------
+UF 28.480
+$ 903.693.184
+Dormitorios 5
+Baños 4
+Metros construidos: 500 m²
+Metros Útiles: 370 m²
+Fecha publicación: 01-09-2021
+Dividendo estimado: 136,3 UF/mes | Simular
+-------------------------------------------------
+UF 21.500
+$ 682.212.200
+Dormitorios 4
+Baños 4
+Metros construidos: 1 m²
+Metros Útiles: 1 m²
+Fecha publicación: 08-01-2019
+Dividendo estimado: 102,9 UF/mes | Simular
+-------------------------------------------------
+UF 24.500
+$ 777.404.600
+Dormitorios 4
+Baños 3
+Metros construidos: 355 m²
+Metros Útiles: 294 m²
+Fecha publicación: 19-02-2020
+Dividendo estimado: 117,3 UF/mes | Simular
+-------------------------------------------------
+UF 19.500
+$ 618.750.600
+Dormitorios 4
+Baños 4
+Metros Útiles: 270 m²
+Fecha publicación: 17-12-2021
+Dividendo estimado: 93,3 UF/mes | Simular
+-------------------------------------------------
+UF 11.500
+$ 364.904.200
+Dormitorios 4
+Baños 3
+Metros construidos: 120 m²
+Metros Útiles: 100 m²
+Fecha publicación: 28-07-2020
+Dividendo estimado: 55 UF/mes | Simular
+-------------------------------------------------
+UF 18.000
+$ 571.154.400
+Dormitorios 4
+Baños 3
+Metros construidos: 300.000 m²
+Metros Útiles: 269 m²
+Fecha publicación: 25-09-2020
+Dividendo estimado: 86,2 UF/mes | Simular
+-------------------------------------------------
+UF 18.500
+$ 587.019.800
+Dormitorios 3
+Baños 3
+Metros construidos: 235 m²
+Metros Útiles: 190 m²
+Fecha publicación: 17-07-2019
+Dividendo estimado: 88,6 UF/mes | Simular
+-------------------------------------------------
+UF 21.800
+$ 691.731.440
+Dormitorios 3
+Baños 4
+Metros construidos: 214 m²
+Superficie Terraza: 45 m²
+Fecha publicación: 16-05-2018
+Dividendo estimado: 104,4 UF/mes | Simular
+-------------------------------------------------
+UF 26.490
+$ 840.548.892
+Dormitorios 3
+Baños 3
+Metros Útiles: 261 m²
+Fecha publicación: 22-03-2022
+Dividendo estimado: 126,8 UF/mes | Simular
+-------------------------------------------------
+UF 21.490
+$ 681.894.892
+Dormitorios 4
+Baños 5
+Metros construidos: 270 m²
+Metros Útiles: 226 m²
+Fecha publicación: 22-05-2021
+Dividendo estimado: 102,9 UF/mes | Simular
+-------------------------------------------------
+UF 20.900
+$ 663.173.720
+Dormitorios 4
+Baños 3
+Metros Útiles: 266 m²
+Fecha publicación: 29-03-2022
+Dividendo estimado: 100 UF/mes | Simular
+-------------------------------------------------
+UF 22.500
+$ 713.943.000
+Dormitorios 3
+Baños 4
+Metros construidos: 260 m²
+Metros Útiles: 200 m²
+Fecha publicación: 08-01-2019
+Dividendo estimado: 107,7 UF/mes | Simular
+-------------------------------------------------
+UF 22.900
+$ 726.635.320
+Dormitorios 6
+Baños 6
+Metros Útiles: 465 m²
+Fecha publicación: 24-02-2022
+Dividendo estimado: 109,6 UF/mes | Simular
+-------------------------------------------------
+UF 26.490
+$ 840.548.892
+Dormitorios 3
+Baños 4
+Metros construidos: 261 m²
+Metros Útiles: 224 m²
+Fecha publicación: 23-02-2022
+Dividendo estimado: 126,8 UF/mes | Simular
+-------------------------------------------------
+UF 24.480
+$ 776.769.984
+Dormitorios 5
+Baños 4
+Metros construidos: 264 m²
+Metros Útiles: 220 m²
+Fecha publicación: 22-03-2022
+Dividendo estimado: 117,2 UF/mes | Simular
+-------------------------------------------------
+UF 21.950
+$ 696.491.060
+Dormitorios 4
+Baños 4
+Metros construidos: 310 m²
+Metros Útiles: 269 m²
+Fecha publicación: 14-04-2021
+Dividendo estimado: 105,1 UF/mes | Simular
+-------------------------------------------------
+UF 26.900
+$ 853.558.520
+Dormitorios 3
+Baños 4
+Metros construidos: 230 m²
+Metros Útiles: 230 m²
+Fecha publicación: 17-12-2021
+Dividendo estimado: 128,8 UF/mes | Simular
+-------------------------------------------------
+UF 21.500
+$ 682.212.200
+Dormitorios 4
+Baños 5
+Metros construidos: 340 m²
+Metros Útiles: 280 m²
+Fecha publicación: 20-03-2021
+Dividendo estimado: 102,9 UF/mes | Simular
+-------------------------------------------------
+UF 21.500
+$ 682.212.200
+Dormitorios 4
+Baños 5
+Metros construidos: 302 m²
+Metros Útiles: 280 m²
+Fecha publicación: 03-05-2021
+Dividendo estimado: 102,9 UF/mes | Simular
+-------------------------------------------------
+UF 17.900
+$ 567.981.320
+Dormitorios 4
+Baños 3
+Metros construidos: 280 m²
+Metros Útiles: 230 m²
+Fecha publicación: 05-03-2022
+Dividendo estimado: 85,7 UF/mes | Simular
+-------------------------------------------------
+UF 28.000
+$ 888.462.400
+Dormitorios 6
+Baños 6
+Metros construidos: 470 m²
+Metros Útiles: 370 m²
+Fecha publicación: 09-08-2021
+Dividendo estimado: 134 UF/mes | Simular
+-------------------------------------------------
+UF 21.500
+$ 682.212.200
+Dormitorios 3
+Baños 3
+Metros construidos: 240 m²
+Metros Útiles: 204 m²
+Fecha publicación: 08-09-2021
+Dividendo estimado: 102,9 UF/mes | Simular
+-------------------------------------------------
+UF 26.000
+$ 825.000.800
+Dormitorios 4
+Baños 3
+Metros construidos: 340 m²
+Metros Útiles: 280 m²
+Fecha publicación: 08-01-2019
+Dividendo estimado: 124,5 UF/mes | Simular
+-------------------------------------------------
+UF 23.000
+$ 729.808.400
+Dormitorios 4
+Baños 5
+Metros construidos: 340 m²
+Metros Útiles: 280 m²
+Fecha publicación: 20-10-2021
+Dividendo estimado: 110,1 UF/mes | Simular
+-------------------------------------------------
+UF 21.500
+$ 682.212.200
+Dormitorios 5
+Baños 4
+Metros construidos: 330 m²
+Metros Útiles: 298 m²
+Fecha publicación: 11-12-2021
+Dividendo estimado: 102,9 UF/mes | Simular
+-------------------------------------------------
+UF 19.800
+$ 628.269.840
+Dormitorios 6
+Baños 5
+Metros construidos: 300 m²
+Metros Útiles: 269 m²
+Fecha publicación: 05-10-2020
+Dividendo estimado: 94,8 UF/mes | Simular
+-------------------------------------------------
+UF 19.000
+$ 602.885.200
+Dormitorios 5
+Baños 4
+Metros construidos: 280 m²
+Metros Útiles: 214 m²
+Fecha publicación: 24-12-2021
+Dividendo estimado: 90,9 UF/mes | Simular
+-------------------------------------------------
+UF 22.900
+$ 726.635.320
+Dormitorios 3
+Baños 4
+Metros construidos: 261 m²
+Metros Útiles: 224 m²
+Fecha publicación: 12-11-2021
+Dividendo estimado: 109,6 UF/mes | Simular
+-------------------------------------------------
+UF 22.900
+$ 726.635.320
+Dormitorios 5
+Baños 6
+Metros construidos: 384 m²
+Metros Útiles: 294 m²
+Fecha publicación: 24-08-2021
+Dividendo estimado: 109,6 UF/mes | Simular
+-------------------------------------------------
+UF 33.000
+$ 1.047.116.400
+Dormitorios 7
+Baños 5
+Metros construidos: 556 m²
+Metros Útiles: 370 m²
+Fecha publicación: 20-10-2021
+Dividendo estimado: 158 UF/mes | Simular
+-------------------------------------------------
+UF 28.000
+$ 888.462.400
+Dormitorios 5
+Baños 4
+Metros Útiles: 430 m²
+Fecha publicación: 24-02-2022
+Dividendo estimado: 134 UF/mes | Simular
+-------------------------------------------------
+UF 15.900
+$ 504.519.720
+Dormitorios 6
+Baños 5
+Superficie Terreno: 300 m²
+Metros Útiles: 170 m²
+Fecha publicación: 02-02-2022
+Dividendo estimado: 76,1 UF/mes | Simular
+-------------------------------------------------
+UF 12.500
+$ 396.635.000
+Dormitorios 3
+Baños 3
+Metros construidos: 160 m²
+Metros Útiles: 110 m²
+Fecha publicación: 13-04-2022
+Dividendo estimado: 59,8 UF/mes | Simular
+-------------------------------------------------
+UF 8.280
+$ 262.731.024
+Dormitorios 2
+Baños 2
+Metros construidos: 90 m²
+Metros Útiles: 80 m²
+Fecha publicación: 29-05-2021
+Dividendo estimado: 39,6 UF/mes | Simular
+-------------------------------------------------
+UF 12.500
+$ 396.635.000
+Dormitorios 3
+Baños 2
+Metros Útiles: 110 m²
+Fecha publicación: 27-04-2022
+Dividendo estimado: 59,8 UF/mes | Simular
+-------------------------------------------------
+UF 12.500
+$ 396.635.000
+Dormitorios 3
+Baños 3
+Metros construidos: 270 m²
+Metros Útiles: 110 m²
+Fecha publicación: 16-02-2022
+Dividendo estimado: 59,8 UF/mes | Simular
+-------------------------------------------------
+UF 18.000
+$ 571.154.400
+Dormitorios 6
+Baños 2
+Superficie Terreno: 493 m²
+Metros Útiles: 220 m²
+Fecha publicación: 30-03-2022
+Dividendo estimado: 86,2 UF/mes | Simular
+-------------------------------------------------
+UF 19.800
+$ 628.269.840
+Dormitorios 4
+Baños 4
+Superficie Terreno: 450 m²
+Metros Útiles: 220 m²
+Fecha publicación: 26-04-2022
+Dividendo estimado: 94,8 UF/mes | Simular
+-------------------------------------------------
+UF 27.500
+$ 872.597.000
+Dormitorios 5
+Baños 4
+Metros Útiles: 300 m²
+Fecha publicación: 24-02-2022
+Dividendo estimado: 131,6 UF/mes | Simular
+-------------------------------------------------
+UF 26.000
+$ 825.000.800
+Dormitorios 4
+Baños 4
+Metros construidos: 210 m²
+Superficie Terreno: 515 m²
+Fecha publicación: 15-04-2022
+Dividendo estimado: 124,5 UF/mes | Simular
+-------------------------------------------------
+UF 22.000
+$ 698.077.600
+Dormitorios 5
+Baños 4
+Superficie Terreno: 504 m²
+Metros Útiles: 220 m²
+Fecha publicación: 21-04-2022
+Dividendo estimado: 105,3 UF/mes | Simular
+-------------------------------------------------
+UF 26.900
+$ 853.558.520
+Dormitorios 4
+Baños 4
+Superficie Terreno: 500 m²
+Metros Útiles: 240 m²
+Fecha publicación: 11-03-2020
+Dividendo estimado: 128,8 UF/mes | Simular
+-------------------------------------------------
+UF 25.900
+$ 821.827.720
+Dormitorios 4
+Baños 4
+Superficie Terreno: 500 m²
+Metros Útiles: 240 m²
+Fecha publicación: 15-10-2021
+Dividendo estimado: 124 UF/mes | Simular
+-------------------------------------------------
+UF 23.000
+$ 729.808.400
+Dormitorios 5
+Baños 4
+Superficie Terreno: 512 m²
+Metros Útiles: 228 m²
+Fecha publicación: 29-04-2022
+Dividendo estimado: 110,1 UF/mes | Simular
+-------------------------------------------------
+UF 25.700
+$ 815.481.560
+Dormitorios 6
+Baños 5
+Superficie Terreno: 450 m²
+Metros Útiles: 314 m²
+Fecha publicación: 24-02-2022
+Dividendo estimado: 123 UF/mes | Simular
+-------------------------------------------------
+UF 23.000
+$ 729.808.400
+Dormitorios 5
+Baños 3
+Metros construidos: 198 m²
+Superficie Terreno: 512 m²
+Fecha publicación: 02-02-2022
+Dividendo estimado: 110,1 UF/mes | Simular
+-------------------------------------------------
+UF 25.900
+$ 821.827.720
+Dormitorios 4
+Baños 4
+Metros construidos: 240 m²
+Superficie Terreno: 500 m²
+Fecha publicación: 13-11-2019
+Dividendo estimado: 124 UF/mes | Simular
+-------------------------------------------------
+UF 27.000
+$ 856.731.600
+Dormitorios 4
+Baños 4
+Superficie Terreno: 523 m²
+Metros Útiles: 254 m²
+Fecha publicación: 17-12-2021
+Dividendo estimado: 129,2 UF/mes | Simular
+-------------------------------------------------
+UF 24.500
+$ 777.404.600
+Dormitorios 4
+Baños 4
+Superficie Terreno: 420 m²
+Metros Útiles: 220 m²
+Fecha publicación: 21-09-2021
+Dividendo estimado: 117,3 UF/mes | Simular
+-------------------------------------------------
+UF 18.990
+$ 602.567.892
+Dormitorios 4
+Baños 3
+Metros Útiles: 216 m²
+Fecha publicación: 26-04-2022
+Dividendo estimado: 90,9 UF/mes | Simular
+-------------------------------------------------
+UF 17.500
+$ 555.289.000
+Dormitorios 4
+Baños 4
+Metros construidos: 160 m²
+Superficie Terreno: 257 m²
+Fecha publicación: 15-06-2021
+Dividendo estimado: 83,8 UF/mes | Simular
+-------------------------------------------------
+UF 14.450
+$ 458.510.060
+Dormitorios 4
+Baños 3
+Metros Útiles: 165 m²
+Fecha publicación: 13-04-2022
+Dividendo estimado: 69,2 UF/mes | Simular
+-------------------------------------------------
+UF 20.000
+$ 634.616.000
+Dormitorios 6
+Baños 4
+Superficie Terreno: 302 m²
+Metros Útiles: 200 m²
+Fecha publicación: 24-02-2022
+Dividendo estimado: 95,7 UF/mes | Simular
+-------------------------------------------------
+UF 18.000
+$ 571.154.400
+Dormitorios 5
+Baños 4
+Metros construidos: 230 m²
+Superficie Terreno: 380 m²
+Metros Útiles: 230 m²
+Fecha publicación: 10-06-2020
+Dividendo estimado: 86,2 UF/mes | Simular
+-------------------------------------------------
+UF 21.500
+$ 682.212.200
+Dormitorios 4
+Baños 3
+Superficie Terreno: 302 m²
+Metros Útiles: 183 m²
+Fecha publicación: 13-08-2021
+Dividendo estimado: 102,9 UF/mes | Simular
+-------------------------------------------------
+UF 19.200
+$ 609.231.360
+Dormitorios 5
+Baños 4
+Superficie Terreno: 398 m²
+Metros Útiles: 220 m²
+Fecha publicación: 04-01-2022
+Dividendo estimado: 91,9 UF/mes | Simular
+-------------------------------------------------
+UF 19.900
+$ 631.442.920
+Dormitorios 3
+Baños 3
+Metros construidos: 150 m²
+Superficie Terreno: 377 m²
+Fecha publicación: 22-03-2022
+Dividendo estimado: 95,3 UF/mes | Simular
+-------------------------------------------------
+UF 17.000
+$ 539.423.600
+Dormitorios 5
+Baños 3
+Metros construidos: 220 m²
+Superficie Terreno: 375 m²
+Fecha publicación: 23-10-2019
+Dividendo estimado: 81,4 UF/mes | Simular
+-------------------------------------------------
+UF 14.000
+$ 444.231.200
+Dormitorios 3
+Baños 3
+Metros construidos: 140 m²
+Metros Útiles: 120 m²
+Fecha publicación: 05-03-2022
+Dividendo estimado: 67 UF/mes | Simular
+-------------------------------------------------
+UF 15.900
+$ 504.519.720
+Dormitorios 6
+Baños 5
+Superficie Terreno: 300 m²
+Metros Útiles: 175 m²
+Fecha publicación: 15-04-2022
+Dividendo estimado: 76,1 UF/mes | Simular
+-------------------------------------------------
+UF 20.500
+$ 650.481.400
+Dormitorios 5
+Baños 4
+Superficie Terreno: 353 m²
+Metros Útiles: 224 m²
+Fecha publicación: 20-04-2022
+Dividendo estimado: 98,1 UF/mes | Simular
+-------------------------------------------------
+UF 23.500
+$ 745.673.800
+Dormitorios 4
+Baños 5
+Superficie Terreno: 342 m²
+Metros Útiles: 246 m²
+Fecha publicación: 04-02-2022
+Dividendo estimado: 112,5 UF/mes | Simular
+-------------------------------------------------
+UF 15.900
+$ 504.519.720
+Dormitorios 6
+Baños 4
+Superficie Terreno: 298 m²
+Metros Útiles: 139 m²
+Fecha publicación: 18-04-2022
+Dividendo estimado: 76,1 UF/mes | Simular
+-------------------------------------------------
+UF 26.200
+$ 831.346.960
+Dormitorios 3
+Baños 3
+Superficie Terreno: 450 m²
+Metros Útiles: 253 m²
+Fecha publicación: 06-12-2021
+Dividendo estimado: 125,4 UF/mes | Simular
+-------------------------------------------------
+UF 29.900
+$ 948.750.920
+Dormitorios 5
+Baños 4
+Superficie Terreno: 765 m²
+Metros Útiles: 235 m²
+Fecha publicación: 22-10-2021
+Dividendo estimado: 143,1 UF/mes | Simular
+-------------------------------------------------
+UF 18.750
+$ 594.952.500
+Dormitorios 3
+Baños 2
+Superficie Terreno: 392 m²
+Metros Útiles: 139 m²
+Fecha publicación: 18-03-2022
+Dividendo estimado: 89,8 UF/mes | Simular
+-------------------------------------------------
+UF 23.800
+$ 755.193.040
+Dormitorios 3
+Baños 3
+Superficie Terreno: 450 m²
+Metros Útiles: 173 m²
+Fecha publicación: 06-12-2021
+Dividendo estimado: 113,9 UF/mes | Simular
+-------------------------------------------------
+UF 18.800
+$ 596.539.040
+Dormitorios 5
+Baños 4
+Superficie Terreno: 397 m²
+Metros Útiles: 230 m²
+Fecha publicación: 26-04-2022
+Dividendo estimado: 90 UF/mes | Simular
+-------------------------------------------------
+UF 19.200
+$ 609.231.360
+Dormitorios 5
+Baños 3
+Metros construidos: 180 m²
+Superficie Terreno: 400 m²
+Fecha publicación: 21-03-2022
+Dividendo estimado: 91,9 UF/mes | Simular
+-------------------------------------------------
+UF 26.000
+$ 825.000.800
+Dormitorios 5
+Baños 5
+Superficie Terreno: 468 m²
+Metros Útiles: 240 m²
+Fecha publicación: 06-04-2022
+Dividendo estimado: 124,5 UF/mes | Simular
+-------------------------------------------------
+UF 16.800
+$ 533.077.440
+Dormitorios 5
+Baños 4
+Superficie Terreno: 282 m²
+Metros Útiles: 180 m²
+Fecha publicación: 26-03-2022
+Dividendo estimado: 80,4 UF/mes | Simular
+-------------------------------------------------
+UF 19.200
+$ 609.231.360
+Dormitorios 5
+Baños 4
+Superficie Terreno: 400 m²
+Metros Útiles: 230 m²
+Fecha publicación: 28-04-2022
+Dividendo estimado: 91,9 UF/mes | Simular
+-------------------------------------------------
+UF 19.200
+$ 609.231.360
+Dormitorios 5
+Baños 4
+Superficie Terreno: 397 m²
+Metros Útiles: 240 m²
+Fecha publicación: 27-03-2022
+Dividendo estimado: 91,9 UF/mes | Simular
+-------------------------------------------------
+UF 19.200
+$ 609.231.360
+Dormitorios 5
+Baños 4
+Superficie Terreno: 397 m²
+Metros Útiles: 230 m²
+Fecha publicación: 24-02-2022
+Dividendo estimado: 91,9 UF/mes | Simular
+-------------------------------------------------
+UF 11.697
+Superficie útil desde: 105,72 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Pedro Jesús Rodríguez 411 , Lo Barnechea, Metropolitana
+Fecha de entrega: Entrega Inmediata
+Inmobiliaria: Devisa
+Construye: Constructora Proyekta
+Arquitecto: Armas Elton y Coeymans Arquitectos
+Cantidad de pisos: 4
+Dividendo estimado: 56 UF/mes | Simular
+-------------------------------------------------
+UF 15.600
+Superficie útil desde: 25,1 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Federico Lathrop 12526, Lo Barnechea , Lo Barnechea, Metropolitana
+Fecha de entrega: Entrega Programada por Pandemia
+Inmobiliaria: Almagro
+Construye: Almagro
+Arquitecto: sin información
+Dividendo estimado: 74,7 UF/mes | Simular
+-------------------------------------------------
+UF 36.990
+Superficie útil desde: 283,49 m²
+Desde: 3 Dormitorios, 4 Baños
+Dirección: Av. El Tranque 10100, Lo Barnechea , Lo Barnechea, Metropolitana
+Fecha de entrega: Entrega Programada por Pandemia
+Inmobiliaria: Almagro
+Construye: Almagro
+Arquitecto: sin información
+Dividendo estimado: 177,1 UF/mes | Simular
+-------------------------------------------------
+UF 31.126
+Superficie útil desde: 247,3 m²
+Desde: 4 Dormitorios, 5 Baños
+Dirección: Bernardo Larraín 12663 , Lo Barnechea, Metropolitana
+Fecha de entrega: 2do. Trimetre 2021
+Inmobiliaria: Moller & Pérez-Cotapos S.A.
+Construye: Moller & Pérez-Cotapos S.A.
+Arquitecto: Robertson Arquitectos
+Cantidad de pisos: 3
+Dividendo estimado: 149 UF/mes | Simular
+-------------------------------------------------
+UF 11.487
+Superficie útil desde: 123,49 m²
+Desde: 3 Dormitorios, 2 Baños
+Dirección: Raúl Labbé 12413 , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Las Américas
+Construye: Ingevec
+Arquitecto: Patric Turner
+Cantidad de pisos: 6
+Dividendo estimado: 55 UF/mes | Simular
+-------------------------------------------------
+UF 8.392
+Superficie útil desde: 76,33 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Av. El Tranque 12654 , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Inmobiliaria SIP
+Construye: Empresas Guzmán y Larraín Ltda.
+Arquitecto: ARC
+Cantidad de pisos: 4
+Dividendo estimado: 40,2 UF/mes | Simular
+-------------------------------------------------
+UF 12.335
+Superficie útil desde: 138,98 m²
+Desde: 3 Dormitorios, 4 Baños
+Dirección: El Gabino 13300 , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Amplus Inmobiliaria SpA
+Construye: Constructora SAE
+Arquitecto: SML Arquitectos.
+Cantidad de pisos: 4
+Dividendo estimado: 59 UF/mes | Simular
+-------------------------------------------------
+UF 5.450
+Superficie útil desde: 43,29 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: AV. Raúl Labbé 12650 , Lo Barnechea, Metropolitana
+Fecha de entrega: Primer Semestre 2022
+Inmobiliaria: PAZ
+Construye: PAZ
+Arquitecto: VialAG Architectural Group
+Dividendo estimado: 26,1 UF/mes | Simular
+-------------------------------------------------
+UF 6.384
+Superficie útil desde: 49,31 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Av. Las Condes 14745 , Lo Barnechea, Metropolitana
+Fecha de entrega: 2° Semestre 2021
+Inmobiliaria: Inmobiliaria Las Varas
+Construye: Terramayor
+Arquitecto: EM Arquitectos
+Cantidad de pisos: 5
+Dividendo estimado: 30,6 UF/mes | Simular
+-------------------------------------------------
+UF 26.257
+Superficie construida desde: 254 m²
+Desde: 4 Dormitorios, 4 Baños
+Dirección: Monseñor Adolfo Rodríguez 13259 , Lo Barnechea, Metropolitana
+Fecha de entrega: 2 Semestre 2021
+Inmobiliaria: Propiedades la Parva
+Construye: SAE
+Arquitecto: Osvaldo Fuenzalida y Pablo Larraín
+Dividendo estimado: 125,7 UF/mes | Simular
+-------------------------------------------------
+UF 19.990
+Superficie construida desde: 224,04 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Camino del Oficio 2981 , Lo Barnechea, Metropolitana
+Fecha de entrega: 2do Semestre 2024
+Inmobiliaria: Alta Inmobiliaria
+Arquitecto: Alta Arquitectura
+Dividendo estimado: 95,7 UF/mes | Simular
+-------------------------------------------------
+UF 16.167
+Superficie útil desde: 146,36 m²
+Desde: 3 Dormitorios, 4 Baños
+Dirección: Camino del cid 4030 , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Manquehue
+Construye: Moller & Pérez-Cotapos S.A.
+Arquitecto: Lira & Stitchkin Arquitectos
+Dividendo estimado: 77,4 UF/mes | Simular
+-------------------------------------------------
+UF 5.979
+Superficie útil desde: 49,58 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Pedro Jesús Rodríguez 400 , Lo Barnechea, Metropolitana
+Fecha de entrega: 1er Trimestre 2022
+Inmobiliaria: Fortaleza
+Construye: Fortaleza
+Arquitecto: Squella Arquitectos
+Cantidad de pisos: 5
+Dividendo estimado: 28,6 UF/mes | Simular
+-------------------------------------------------
+UF 6.460
+Superficie útil desde: 48,75 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Av. El Rodeo 17737 , Lo Barnechea, Metropolitana
+Fecha de entrega: Último trimestre 2021
+Inmobiliaria: Fortaleza
+Construye: Fortaleza
+Arquitecto: Turner Arquitectos
+Cantidad de pisos: 8
+Dividendo estimado: 30,9 UF/mes | Simular
+-------------------------------------------------
+UF 8.080
+Superficie útil desde: 75,88 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Av. El Rodeo 17737 , Lo Barnechea, Metropolitana
+Fecha de entrega: 1er semestre 2022
+Inmobiliaria: Fortaleza
+Construye: Fortaleza
+Arquitecto: Turner Arquitectos
+Cantidad de pisos: 8
+Dividendo estimado: 38,7 UF/mes | Simular
+-------------------------------------------------
+UF 23.204
+Superficie útil desde: 212,79 m²
+Desde: 2 Dormitorios, 3 Baños
+Dirección: Av. Punta de Águilas 4000, Los Trapenses , Lo Barnechea, Metropolitana
+Fecha de entrega: 2 Semestre 2022
+Inmobiliaria: Uno Inmobiliaria
+Arquitecto: Gestión Uno
+Cantidad de pisos: 4
+Dividendo estimado: 111,1 UF/mes | Simular
+-------------------------------------------------
+UF 10.957
+Superficie útil desde: 104,57 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Av. La Dehesa 226 , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Security
+Arquitecto: Turner Arquitectos
+Dividendo estimado: 52,4 UF/mes | Simular
+-------------------------------------------------
+UF 12.050
+Superficie útil desde: 108,7 m²
+Desde: 3 Dormitorios, 2 Baños
+Dirección: El Peral 920 , Lo Barnechea, Metropolitana
+Fecha de entrega: 2do Semestre 2021
+Inmobiliaria: ICG Gestion Inmobiliaria / Proyekta Desarrollo
+Arquitecto: sin información
+Dividendo estimado: 57,7 UF/mes | Simular
+-------------------------------------------------
+UF 13.274
+Superficie construida desde: 136,53 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Camino El Huinganal 3929-4 , Lo Barnechea, Metropolitana
+Fecha de entrega: 3er Trimestre 2022
+Inmobiliaria: Enaco
+Construye: Enaco
+Arquitecto: sin información
+Dividendo estimado: 63,5 UF/mes | Simular
+-------------------------------------------------
+UF 23.345
+Superficie construida desde: 207,56 m²
+Desde: 5 Dormitorios, 5 Baños
+Dirección: AV. La Dehesa 3895 , Lo Barnechea, Metropolitana
+Fecha de entrega: 1er Trimestre 2024
+Inmobiliaria: Enaco
+Construye: Enaco
+Arquitecto: sin información
+Dividendo estimado: 111,7 UF/mes | Simular
+-------------------------------------------------
+UF 39.970
+Superficie construida desde: 357,6 m²
+Desde: 5 Dormitorios, 5 Baños
+Dirección: Paseo del Cid 4181, La Dehesa , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Inmobiliaria y Constructora Amanecer S.A.
+Construye: Inmobiliaria y Constructora Amanecer S.A.
+Arquitecto: Renato Stewart y Eugenio Simonetti
+Dividendo estimado: 191,3 UF/mes | Simular
+-------------------------------------------------
+UF 23.580
+Superficie útil desde: 193 m²
+Desde: 4 Dormitorios, 4 Baños
+Dirección: Pan De Azúcar 10409 , Lo Barnechea, Metropolitana
+Fecha de entrega: 2do Trimestre 2022
+Inmobiliaria: Bersa
+Arquitecto: Jorge Figueroa Arquitectos
+Cantidad de pisos: 4
+Dividendo estimado: 112,9 UF/mes | Simular
+-------------------------------------------------
+UF 22.900
+Superficie construida desde: 204 m²
+Desde: 5 Dormitorios, 4 Baños
+Dirección: Camino Pie Andino esquina Los Lotos , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Inmobiliaria Baltico
+Arquitecto: Estudio Valdés
+Dividendo estimado: 109,6 UF/mes | Simular
+-------------------------------------------------
+UF 22.505
+Superficie útil desde: 235 m²
+Desde: 4 Dormitorios, 4 Baños
+Dirección: Camino Del Yunque 14381 , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: VDA Desarrollo Inmobiliario
+Construye: Constructora Monte K
+Arquitecto: BL Arquitectos
+Dividendo estimado: 107,7 UF/mes | Simular
+-------------------------------------------------
+UF 12.942
+Superficie útil desde: 122,71 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: El Espino 1900 , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Inmobiliaria Los Canelos Ltda.
+Construye: Constructora DLP
+Arquitecto: Rodrigo Errázuriz H.
+Cantidad de pisos: 4
+Dividendo estimado: 61,9 UF/mes | Simular
+-------------------------------------------------
+UF 13.540
+Superficie útil desde: 128,66 m²
+Desde: 4 Dormitorios, 4 Baños
+Dirección: El Gabino 13220 , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Inmobiliaria El Gabino SpA
+Construye: Constructora SAE
+Arquitecto: Jose Bella arquitectos y 2RS arquitectos
+Cantidad de pisos: 4
+Dividendo estimado: 64,8 UF/mes | Simular
+-------------------------------------------------
+UF 39.800
+Superficie construida desde: 397 m²
+Desde: 3 Dormitorios, 4 Baños
+Dirección: Panorámica Sur 12290 , Lo Barnechea, Metropolitana
+Fecha de entrega: 1er Semestre 2020
+Inmobiliaria: Patagonland
+Arquitecto: Estudio Valdés
+Dividendo estimado: 190,5 UF/mes | Simular
+-------------------------------------------------
+UF 15.884
+Superficie construida desde: 136,6 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: El Rodeo 1935 , Lo Barnechea, Metropolitana
+Fecha de entrega: 3er Trimestre 2024
+Inmobiliaria: Fuenzalida Desarrollos Inmobiliarios
+Arquitecto: sin información
+Dividendo estimado: 76 UF/mes | Simular
+-------------------------------------------------
+UF 8.736
+Superficie útil desde: 82,89 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: La Espuela 12688 , Lo Barnechea, Metropolitana
+Fecha de entrega: Por confirmar
+Inmobiliaria: Inmobiliaria Cerro Punta De Dama
+Construye: Ingeniería y Construcción DSV Ltda.
+Arquitecto: Vial A.G.
+Dividendo estimado: 41,8 UF/mes | Simular
+-------------------------------------------------
+UF 9.557
+Superficie útil desde: 82,99 m²
+Desde: 2 Dormitorios, 3 Baños
+Dirección: El Tranque Interior 12332 , Lo Barnechea, Metropolitana
+Fecha de entrega: 2do Semestre 2021
+Inmobiliaria: Inmobiliaria Vitalia S.A.
+Construye: EBCO
+Arquitecto: Franco Somigli
+Cantidad de pisos: 4
+Dividendo estimado: 45,7 UF/mes | Simular
+-------------------------------------------------
+UF 13.890
+Superficie útil desde: 129,48 m²
+Desde: 4 Dormitorios, 4 Baños
+Dirección: Los Cactus 1540 , Lo Barnechea, Metropolitana
+Fecha de entrega: 1 Trimestre 2019
+Inmobiliaria: Inmobiliaria Los Cactus Spa
+Construye: SAE
+Arquitecto: Jose Bella arquitectos + 2RS arquitectos
+Dividendo estimado: 66,5 UF/mes | Simular
+-------------------------------------------------
+UF 10.095
+Superficie útil desde: 85,61 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Calle La Huasa 1940 , Lo Barnechea, Metropolitana
+Fecha de entrega: Agosto 2020
+Inmobiliaria: Siena Inmobiliaria
+Construye: Siena Inmobiliaria
+Arquitecto: Arquitectura Siena
+Cantidad de pisos: 4
+Dividendo estimado: 48,3 UF/mes | Simular
+-------------------------------------------------
+UF 23.360
+Superficie construida desde: 272,61 m²
+Desde: 4 Dormitorios, 4 Baños
+Dirección: Panoramica Sur 10400 , Lo Barnechea, Metropolitana
+Fecha de entrega:
+Inmobiliaria: Fuenzalida Desarrollos Inmobiliarios
+Arquitecto: sin información
+Dividendo estimado: 111,8 UF/mes | Simular
+-------------------------------------------------
+UF 33.400
+Superficie construida desde: 300 m²
+Desde: 6 Dormitorios, 5 Baños
+Dirección: Panorámica Sur 10407 , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Inmobiliaria La Mañana
+Construye: Constructora Unión
+Arquitecto: Norita Sepúlveda
+Dividendo estimado: 159,9 UF/mes | Simular
+-------------------------------------------------
+UF 28.200
+Superficie construida desde: 258 m²
+Desde: 5 Dormitorios, 4 Baños
+Dirección: Paseo Del Cid 4037 , Lo Barnechea, Metropolitana
+Fecha de entrega: 2 Semestre 2021
+Inmobiliaria: Pamsa
+Arquitecto: Constructora Terramayor - Patagonia Asset Management
+Dividendo estimado: 135 UF/mes | Simular
+-------------------------------------------------
+UF 15.295
+Superficie útil desde: 139 m²
+Desde: 4 Dormitorios, 4 Baños
+Dirección: El Peral 646 , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Inmobiliaria Metra
+Arquitecto: FG Arquitectos
+Dividendo estimado: 73,2 UF/mes | Simular
+-------------------------------------------------
+UF 10.841
+Superficie útil desde: 92,18 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Robles 12730 , Lo Barnechea, Metropolitana
+Fecha de entrega: 2do Trimestre 2023
+Inmobiliaria: Bricsa
+Construye: Bricsa
+Arquitecto: sin información
+Cantidad de pisos: 6
+Dividendo estimado: 51,9 UF/mes | Simular
+-------------------------------------------------
+UF 11.067
+Superficie útil desde: 99 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Robles 12518 , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Cidepa
+Arquitecto: sin información
+Dividendo estimado: 53 UF/mes | Simular
+-------------------------------------------------
+UF 34.327
+Superficie construida desde: 324,2 m²
+Desde: 4 Dormitorios, 4 Baños
+Dirección: Av. Loma La Cruz 200 esq. Los Trapenses , Lo Barnechea, Metropolitana
+Fecha de entrega: 3er Trimestre 2020
+Inmobiliaria: Wood Inmobiliaria
+Arquitecto: ABD Arquitectos
+Dividendo estimado: 164,3 UF/mes | Simular
+-------------------------------------------------
+UF 36.440
+Superficie útil desde: 285,9 m²
+Desde: 4 Dormitorios, 5 Baños
+Dirección: Loma la Cruz Sur s/n , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Wood Inmobiliaria
+Arquitecto: sin información
+Dividendo estimado: 174,4 UF/mes | Simular
+-------------------------------------------------
+UF 23.900
+Superficie útil desde: 231,37 m²
+Desde: 3 Dormitorios, 4 Baños
+Dirección: Av. Loma La Cruz 200 , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Wood Inmobiliaria
+Arquitecto: sin información
+Cantidad de pisos: 3
+Dividendo estimado: 114,4 UF/mes | Simular
+-------------------------------------------------
+UF 21.780
+Superficie construida desde: 223 m²
+Desde: 4 Dormitorios, 3 Baños
+Dirección: Camino La Laguna 15301 , Lo Barnechea, Metropolitana
+Fecha de entrega: 1 Semestre 2021
+Inmobiliaria: Inmobiliaria Laguna Oriente SpA
+Construye: Constructora G6 Ltda.
+Arquitecto: Rodrigo Rencoret Van Wersch
+Dividendo estimado: 104,3 UF/mes | Simular
+-------------------------------------------------
+UF 6.330
+Superficie útil desde: 89 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Raúl Labbé 14190 , Lo Barnechea, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Cidepa
+Construye: Cidepa
+Arquitecto: Carlos Elton y Asociados
+Dividendo estimado: 30,3 UF/mes | Simular
+-------------------------------------------------
+UF 14.341
+Superficie construida desde: 140 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Camino Del Sol 3383 , Lo Barnechea, Metropolitana
+Fecha de entrega: Enero 2020
+Inmobiliaria: Inmobiliaria La Cima del Yunque Limitada
+Arquitecto: sin información
+Dividendo estimado: 68,6 UF/mes | Simular
+-------------------------------------------------
+UF 10.300
+Superficie útil desde: 136,52 m²
+Desde: 4 Dormitorios, 3 Baños
+Dirección: Pastor Fernández 15436 , Lo Barnechea, Metropolitana
+Fecha de entrega: Enero 2021
+Inmobiliaria: Inmobiliaria Impacta
+Arquitecto: Chauriye Arquitectos Ltda.
+Cantidad de pisos: 5
+Dividendo estimado: 49,3 UF/mes | Simular
+-------------------------------------------------
+UF 19.332
+Superficie útil desde: 209,04 m²
+Desde: 3 Dormitorios, 4 Baños
+Dirección: Robles 12532 , Lo Barnechea, Metropolitana
+Fecha de entrega: 2 Semestre 2020
+Inmobiliaria: Gestora
+Construye: SAE
+Arquitecto: sin información
+Cantidad de pisos: 4
+Dividendo estimado: 92,5 UF/mes | Simular
+-------------------------------------------------
+UF 25.800
+Superficie útil desde: 240 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Camino Real 4690, Los Trapenses , Lo Barnechea, Metropolitana
+Fecha de entrega: Marzo 2019
+Inmobiliaria: Uno Inmobiliaria
+Arquitecto: Gestión Uno
+Cantidad de pisos: 6
+Dividendo estimado: 123,5 UF/mes | Simular
+-------------------------------------------------
+UF 47.880
+Superficie construida desde: 399 m²
+Desde: 6 Dormitorios, 7 Baños
+Dirección: Via Esmeralda 9710 , Vitacura, Metropolitana
+Fecha de entrega: Noviembre 2019
+Inmobiliaria: Enfoke
+Arquitecto: Cristobal Nualart
+Dividendo estimado: 229,2 UF/mes | Simular
+-------------------------------------------------
+UF 4.072
+Superficie útil desde: 39,25 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Cuatro Vientos 13789 , Lo Barnechea, Metropolitana
+Fecha de entrega: 1er Trimestre 2023
+Inmobiliaria: Castro y Tagle Inmobiliaria
+Construye: Constructora FGS
+Arquitecto: sin información
+Cantidad de pisos: 4
+Dividendo estimado: 19,5 UF/mes | Simular
+-------------------------------------------------
+UF 45.635
+$ 1.448.035.058
+Dormitorios 4
+Baños 3
+Metros construidos: 390 m²
+Metros Útiles: 324 m²
+Fecha publicación: 29-03-2022
+Dividendo estimado: 218,4 UF/mes | Simular
+-------------------------------------------------
+UF 30.000
+$ 951.924.000
+Año: 1989
+Dormitorios 5
+Baños 4
+Metros construidos: 418 m²
+Superficie Terreno: 2.158 m²
+Estacionamientos: 1
+Bodegas: 1
+Fecha publicación: 06-01-2022
+-------------------------------------------------
+$ 43.910
+UF 1,38
+Dormitorios 3
+Baños 4
+Metros construidos: 390 m²
+Metros Útiles: 324 m²
+Fecha publicación: 29-03-2022
+Dividendo estimado: 00,3 UF/mes | Simular
+-------------------------------------------------
+UF 45.635
+$ 1.448.035.058
+Dormitorios 3
+Baños 4
+Metros construidos: 390 m²
+Metros Útiles: 324 m²
+Fecha publicación: 29-03-2022
+Dividendo estimado: 218,4 UF/mes | Simular
+-------------------------------------------------
+UF 39.725
+$ 1.260.506.030
+Dormitorios 3
+Baños 4
+Metros construidos: 353 m²
+Metros Útiles: 299 m²
+Fecha publicación: 29-03-2022
+Dividendo estimado: 190,2 UF/mes | Simular
+-------------------------------------------------
+UF 7.690
+$ 244.009.852
+Dormitorios 4
+Baños 4
+Metros construidos: 120 m²
+Metros Útiles: 120 m²
+Fecha publicación: 18-01-2022
+Dividendo estimado: 36,8 UF/mes | Simular
+-------------------------------------------------
+UF 12.500
+$ 396.635.000
+Dormitorios 4
+Baños 3
+Metros construidos: 150 m²
+Metros Útiles: 140 m²
+Fecha publicación: 17-01-2022
+Dividendo estimado: 59,8 UF/mes | Simular
+-------------------------------------------------
+UF 25.000
+$ 793.270.000
+Dormitorios 3
+Baños 3
+Superficie Terreno: 900 m²
+Metros Útiles: 300 m²
+Fecha publicación: 18-01-2022
+Dividendo estimado: 119,7 UF/mes | Simular
+-------------------------------------------------
+UF 29.000
+$ 920.193.200
+Dormitorios 6
+Baños 5
+Superficie Terreno: 1.006 m²
+Metros Útiles: 350 m²
+Fecha publicación: 18-01-2022
+Dividendo estimado: 138,8 UF/mes | Simular
+-------------------------------------------------
+UF 54.610
+$ 1.732.818.988
+Dormitorios 5
+Baños 6
+Metros construidos: 648 m²
+Metros Útiles: 467 m²
+Fecha publicación: 29-03-2022
+Dividendo estimado: 261,4 UF/mes | Simular
+-------------------------------------------------
+UF 32.260
+$ 1.023.635.608
+Dormitorios 3
+Baños 4
+Metros construidos: 353 m²
+Metros Útiles: 299 m²
+Fecha publicación: 29-03-2022
+Dividendo estimado: 154,4 UF/mes | Simular
+-------------------------------------------------
+UF 25.000
+$ 793.270.000
+Dormitorios 3
+Baños 3
+Superficie Terreno: 737 m²
+Metros Útiles: 282 m²
+Fecha publicación: 06-04-2022
+Dividendo estimado: 119,7 UF/mes | Simular
+-------------------------------------------------
+UF 17.700
+$ 561.635.160
+Dormitorios 2
+Baños 2
+Metros construidos: 206 m²
+Metros Útiles: 136 m²
+Fecha publicación: 18-01-2022
+Dividendo estimado: 84,7 UF/mes | Simular
+-------------------------------------------------
+UF 21.000
+$ 666.346.800
+Dormitorios 4
+Baños 4
+Superficie Terreno: 450 m²
+Metros Útiles: 220 m²
+Fecha publicación: 07-04-2022
+Dividendo estimado: 100,5 UF/mes | Simular
+-------------------------------------------------
+UF 14.500
+$ 460.096.600
+Dormitorios 3
+Baños 4
+Metros construidos: 218 m²
+Metros Útiles: 140 m²
+Fecha publicación: 17-01-2022
+Dividendo estimado: 69,4 UF/mes | Simular
+-------------------------------------------------
+UF 12.600
+$ 399.808.080
+Año: 2014
+Dormitorios 4
+Baños 4
+Metros Útiles: 166 m²
+Superficie Terraza: 22 m²
+Orientacion: 1
+Servicios: 1
+Estacionamientos: 3
+Bodegas: 1
+Fecha publicación: 18-03-2022
+Dividendo estimado: 60,3 UF/mes | Simular
+-------------------------------------------------
+$ 170.000.000
+UF 5.357,57
+Dormitorios 3
+Baños 2
+Metros construidos: 95 m²
+Metros Útiles: 92 m²
+Fecha publicación: 17-03-2022
+Dividendo estimado: 25,7 UF/mes | Simular
+-------------------------------------------------
+UF 16.500
+$ 523.558.200
+Dormitorios 4
+Baños 4
+Metros construidos: 210 m²
+Metros Útiles: 145 m²
+Fecha publicación: 18-01-2022
+Dividendo estimado: 79 UF/mes | Simular
+-------------------------------------------------
+UF 9.500
+$ 301.442.600
+Año: 2017
+Dormitorios 2
+Baños 2
+Metros Útiles: 100 m²
+Superficie Terraza: 15 m²
+Orientacion: 6
+Servicios: 1
+Estacionamientos: 2
+Bodegas: 1
+Fecha publicación: 18-09-2021
+Dividendo estimado: 45,5 UF/mes | Simular
+-------------------------------------------------
+UF 18.850
+$ 598.125.580
+Dormitorios 3
+Baños 6
+Metros construidos: 180 m²
+Metros Útiles: 180 m²
+Fecha publicación: 09-03-2022
+Dividendo estimado: 90,2 UF/mes | Simular
+-------------------------------------------------
+UF 26.950
+$ 855.145.060
+Dormitorios 4
+Baños 4
+Superficie Terreno: 890 m²
+Metros Útiles: 290 m²
+Fecha publicación: 30-03-2022
+Dividendo estimado: 129 UF/mes | Simular
+-------------------------------------------------
+UF 27.500
+$ 872.597.000
+Dormitorios 6
+Baños 5
+Superficie Terreno: 860 m²
+Metros Útiles: 330 m²
+Fecha publicación: 30-03-2022
+Dividendo estimado: 131,6 UF/mes | Simular
+-------------------------------------------------
+UF 15.480
+$ 491.192.784
+Dormitorios 5
+Baños 4
+Superficie Terreno: 377 m²
+Metros Útiles: 200 m²
+Fecha publicación: 11-01-2022
+Dividendo estimado: 74,1 UF/mes | Simular
+-------------------------------------------------
+UF 32.600
+$ 1.034.424.080
+Dormitorios 4
+Baños 4
+Superficie Terreno: 1.600 m²
+Metros Útiles: 420 m²
+Fecha publicación: 24-03-2022
+Dividendo estimado: 156 UF/mes | Simular
+-------------------------------------------------
+UF 23.990
+$ 761.221.892
+Dormitorios 3
+Baños 3
+Superficie Terreno: 300 m²
+Metros Útiles: 250 m²
+Fecha publicación: 25-02-2022
+Dividendo estimado: 114,8 UF/mes | Simular
+-------------------------------------------------
+UF 31.800
+$ 1.009.039.440
+Dormitorios 6
+Baños 7
+Metros construidos: 358 m²
+Superficie Terreno: 1.003 m²
+Fecha publicación: 17-12-2021
+Dividendo estimado: 152,2 UF/mes | Simular
+-------------------------------------------------
+UF 20.700
+$ 656.827.560
+Dormitorios 4
+Baños 3
+Superficie Terreno: 700 m²
+Metros Útiles: 200 m²
+Fecha publicación: 11-02-2022
+Dividendo estimado: 99,1 UF/mes | Simular
+-------------------------------------------------
+UF 9.590
+$ 304.298.372
+Año: 2019
+Dormitorios 3
+Baños 2
+Metros Útiles: 109,7 m²
+Superficie Terraza: 09,2 m²
+Orientacion: 2
+Servicios: 1
+Estacionamientos: 1
+Bodegas: 1
+Fecha publicación: 01-04-2022
+Dividendo estimado: 45,9 UF/mes | Simular
+-------------------------------------------------
+UF 16.950
+$ 537.837.060
+Dormitorios 4
+Baños 4
+Metros construidos: 228 m²
+Metros Útiles: 149 m²
+Fecha publicación: 03-02-2022
+Dividendo estimado: 81,1 UF/mes | Simular
+-------------------------------------------------
+UF 11.950
+$ 379.183.060
+Dormitorios 3
+Baños 3
+Metros construidos: 138 m²
+Metros Útiles: 138 m²
+Fecha publicación: 11-02-2022
+Dividendo estimado: 57,2 UF/mes | Simular
+-------------------------------------------------
+UF 16.950
+$ 537.837.060
+Dormitorios 4
+Baños 4
+Metros construidos: 228 m²
+Metros Útiles: 228 m²
+Fecha publicación: 30-03-2022
+Dividendo estimado: 81,1 UF/mes | Simular
+-------------------------------------------------
+UF 49.500
+$ 1.570.674.600
+Dormitorios 8
+Baños 8
+Superficie Terreno: 1.979 m²
+Metros Útiles: 692 m²
+Fecha publicación: 17-01-2022
+Dividendo estimado: 236,9 UF/mes | Simular
+-------------------------------------------------
+UF 10.950
+$ 347.452.260
+Dormitorios 2
+Baños 2
+Metros construidos: 115 m²
+Metros Útiles: 85 m²
+Fecha publicación: 18-01-2022
+Dividendo estimado: 52,4 UF/mes | Simular
+-------------------------------------------------
+UF 21.000
+$ 666.346.800
+Dormitorios 3
+Baños 5
+Metros construidos: 350 m²
+Metros Útiles: 200 m²
+Fecha publicación: 24-02-2022
+Dividendo estimado: 100,5 UF/mes | Simular
+-------------------------------------------------
+UF 12.300
+$ 390.288.840
+Dormitorios 3
+Baños 3
+Metros construidos: 180 m²
+Metros Útiles: 120 m²
+Fecha publicación: 18-01-2022
+Dividendo estimado: 58,9 UF/mes | Simular
+-------------------------------------------------
+UF 8.400
+$ 266.538.720
+Dormitorios 2
+Baños 2
+Metros construidos: 83 m²
+Metros Útiles: 63 m²
+Fecha publicación: 18-01-2022
+Dividendo estimado: 40,2 UF/mes | Simular
+-------------------------------------------------
+UF 18.500
+$ 587.019.800
+Año: 2007
+Dormitorios 4
+Baños 4
+Metros Útiles: 187 m²
+Superficie Terraza: 30 m²
+Orientacion: 3
+Servicios: 1
+Estacionamientos: 2
+Bodegas: 1
+Fecha publicación: 02-10-2021
+Dividendo estimado: 88,6 UF/mes | Simular
+-------------------------------------------------
+UF 29.000
+$ 920.193.200
+Dormitorios 3
+Baños 5
+Metros construidos: 282 m²
+Superficie Terreno: 892 m²
+Fecha publicación: 19-02-2022
+Dividendo estimado: 138,8 UF/mes | Simular
+-------------------------------------------------
+UF 45.000
+$ 1.427.886.000
+Dormitorios 5
+Baños 7
+Superficie Terreno: 1.230 m²
+Metros Útiles: 510 m²
+Fecha publicación: 03-02-2022
+Dividendo estimado: 215,4 UF/mes | Simular
+-------------------------------------------------
+UF 34.000
+$ 1.078.847.200
+Dormitorios 5
+Baños 5
+Superficie Terreno: 451 m²
+Metros Útiles: 325 m²
+Fecha publicación: 16-03-2022
+Dividendo estimado: 162,7 UF/mes | Simular
+-------------------------------------------------
+UF 16.900
+$ 536.250.520
+Dormitorios 2
+Baños 3
+Metros construidos: 190 m²
+Metros Útiles: 190 m²
+Fecha publicación: 18-01-2022
+Dividendo estimado: 80,9 UF/mes | Simular
+-------------------------------------------------
+UF 17.900
+$ 567.981.320
+Dormitorios 3
+Baños 3
+Metros construidos: 190 m²
+Metros Útiles: 170 m²
+Fecha publicación: 17-01-2022
+Dividendo estimado: 85,7 UF/mes | Simular
+-------------------------------------------------
+UF 36.000
+$ 1.142.308.800
+Dormitorios 6
+Baños 4
+Superficie Terreno: 2.150 m²
+Metros Útiles: 640 m²
+Fecha publicación: 24-12-2021
+Dividendo estimado: 172,3 UF/mes | Simular
+-------------------------------------------------
+UF 4.300
+$ 136.442.440
+Dormitorios 3
+Baños 2
+Metros construidos: 69 m²
+Metros Útiles: 66 m²
+Fecha publicación: 30-03-2022
+Dividendo estimado: 20,6 UF/mes | Simular
+-------------------------------------------------
+UF 14.900
+$ 472.788.920
+Dormitorios 4
+Baños 5
+Superficie Terreno: 216 m²
+Metros Útiles: 180 m²
+Fecha publicación: 27-03-2022
+Dividendo estimado: 71,3 UF/mes | Simular
+-------------------------------------------------
+UF 15.500
+$ 491.827.400
+Dormitorios 4
+Baños 4
+Superficie Terreno: 400 m²
+Metros Útiles: 160 m²
+Fecha publicación: 17-03-2022
+Dividendo estimado: 74,2 UF/mes | Simular
+-------------------------------------------------
+UF 15.900
+$ 504.519.720
+Dormitorios 3
+Baños 3
+Metros construidos: 160 m²
+Superficie Terreno: 320 m²
+Metros Útiles: 160 m²
+Superficie Terraza: 6 m²
+Fecha publicación: 10-09-2021
+Dividendo estimado: 76,1 UF/mes | Simular
+-------------------------------------------------
+UF 45.000
+$ 1.427.886.000
+Dormitorios 6
+Baños 4
+Superficie Terreno: 2.461 m²
+Metros Útiles: 488 m²
+Fecha publicación: 18-01-2022
+Dividendo estimado: 215,4 UF/mes | Simular
+-------------------------------------------------
+UF 32.500
+$ 1.031.251.000
+Dormitorios 5
+Baños 5
+Superficie Terreno: 1.180 m²
+Metros Útiles: 373 m²
+Fecha publicación: 17-01-2022
+Dividendo estimado: 155,6 UF/mes | Simular
+-------------------------------------------------
+UF 30.000
+$ 951.924.000
+Dormitorios 5
+Baños 4
+Superficie Terreno: 890 m²
+Metros Útiles: 390 m²
+Fecha publicación: 09-03-2022
+Dividendo estimado: 143,6 UF/mes | Simular
+-------------------------------------------------
+UF 42.930
+$ 1.362.203.244
+Dormitorios 3
+Baños 4
+Metros construidos: 351 m²
+Metros Útiles: 299 m²
+Fecha publicación: 08-04-2022
+Dividendo estimado: 205,5 UF/mes | Simular
+-------------------------------------------------
+UF 41.720
+$ 1.323.808.976
+Dormitorios 3
+Baños 4
+Metros construidos: 351 m²
+Metros Útiles: 299 m²
+Fecha publicación: 08-04-2022
+Dividendo estimado: 199,7 UF/mes | Simular
+-------------------------------------------------
+UF 22.000
+$ 698.077.600
+Dormitorios 3
+Baños 3
+Metros construidos: 302 m²
+Metros Útiles: 203 m²
+Fecha publicación: 29-04-2022
+Dividendo estimado: 105,3 UF/mes | Simular
+-------------------------------------------------
+UF 38.000
+$ 1.205.770.400
+Dormitorios 7
+Baños 5
+Superficie Terreno: 1.278 m²
+Metros Útiles: 265 m²
+Fecha publicación: 22-04-2022
+Dividendo estimado: 181,9 UF/mes | Simular
+-------------------------------------------------
+UF 21.900
+$ 694.904.520
+Dormitorios 5
+Baños 4
+Superficie Terreno: 520 m²
+Metros Útiles: 220 m²
+Fecha publicación: 16-11-2019
+Dividendo estimado: 104,8 UF/mes | Simular
+-------------------------------------------------
+UF 25.000
+$ 793.270.000
+Dormitorios 7
+Baños 4
+Superficie Terreno: 950 m²
+Metros Útiles: 290 m²
+Fecha publicación: 05-04-2022
+Dividendo estimado: 119,7 UF/mes | Simular
+-------------------------------------------------
+UF 20.990
+$ 666.029.492
+Dormitorios 3
+Baños 3
+Superficie Terreno: 850 m²
+Metros Útiles: 175 m²
+Fecha publicación: 10-02-2022
+Dividendo estimado: 100,5 UF/mes | Simular
+-------------------------------------------------
+UF 19.800
+$ 628.269.840
+Dormitorios 4
+Baños 3
+Superficie Terreno: 1.190 m²
+Metros Útiles: 235 m²
+Fecha publicación: 13-04-2022
+Dividendo estimado: 94,8 UF/mes | Simular
+-------------------------------------------------
+UF 15.900
+$ 504.519.720
+Dormitorios 4
+Baños 4
+Metros construidos: 200 m²
+Metros Útiles: 144 m²
+Fecha publicación: 18-03-2022
+Dividendo estimado: 76,1 UF/mes | Simular
+-------------------------------------------------
+UF 16.500
+$ 523.558.200
+Dormitorios 3
+Baños 3
+Metros construidos: 195 m²
+Metros Útiles: 150 m²
+Fecha publicación: 22-04-2022
+Dividendo estimado: 79 UF/mes | Simular
+-------------------------------------------------
+UF 16.690
+$ 529.587.052
+Dormitorios 3
+Baños 2
+Metros construidos: 170 m²
+Metros Útiles: 120 m²
+Fecha publicación: 14-01-2020
+Dividendo estimado: 79,9 UF/mes | Simular
+-------------------------------------------------
+UF 7.600
+$ 241.154.080
+Dormitorios 2
+Baños 2
+Metros construidos: 90 m²
+Metros Útiles: 90 m²
+Fecha publicación: 02-04-2022
+Dividendo estimado: 36,4 UF/mes | Simular
+-------------------------------------------------
+UF 9.500
+$ 301.442.600
+Dormitorios 2
+Baños 2
+Metros construidos: 100 m²
+Metros Útiles: 90 m²
+Fecha publicación: 11-04-2022
+Dividendo estimado: 45,5 UF/mes | Simular
+-------------------------------------------------
+UF 14.500
+$ 460.096.600
+Dormitorios 4
+Baños 4
+Metros construidos: 166 m²
+Metros Útiles: 136 m²
+Fecha publicación: 14-03-2022
+Dividendo estimado: 69,4 UF/mes | Simular
+-------------------------------------------------
+UF 11.500
+$ 364.904.200
+Dormitorios 3
+Baños 3
+Metros construidos: 128 m²
+Superficie Terraza: 18 m²
+Fecha publicación: 25-06-2018
+Dividendo estimado: 55 UF/mes | Simular
+-------------------------------------------------
+UF 15.000
+$ 475.962.000
+Dormitorios 6
+Baños 5
+Superficie Terreno: 216 m²
+Metros Útiles: 162 m²
+Fecha publicación: 18-03-2022
+Dividendo estimado: 71,8 UF/mes | Simular
+-------------------------------------------------
+UF 52.000
+$ 1.650.001.600
+Dormitorios 7
+Baños 6
+Superficie Terreno: 2.466 m²
+Metros Útiles: 868 m²
+Fecha publicación: 14-04-2022
+Dividendo estimado: 248,9 UF/mes | Simular
+-------------------------------------------------
+UF 14.900
+$ 472.788.920
+Dormitorios 5
+Baños 5
+Superficie Terreno: 216 m²
+Metros Útiles: 180 m²
+Fecha publicación: 05-04-2022
+Dividendo estimado: 71,3 UF/mes | Simular
+-------------------------------------------------
+UF 36.500
+$ 1.158.174.200
+Dormitorios 3
+Baños 5
+Superficie Terreno: 1.087 m²
+Metros Útiles: 416 m²
+Fecha publicación: 30-03-2022
+Dividendo estimado: 174,7 UF/mes | Simular
+-------------------------------------------------
+$ 3.200.000
+UF 100,85
+Dormitorios 5
+Baños 5
+Superficie Terreno: 1.400 m²
+Metros Útiles: 362 m²
+Fecha publicación: 28-04-2022
+-------------------------------------------------
+UF 19.500
+$ 618.750.600
+Dormitorios 5
+Baños 4
+Superficie Terreno: 380 m²
+Metros Útiles: 183 m²
+Fecha publicación: 28-03-2022
+Dividendo estimado: 93,3 UF/mes | Simular
+-------------------------------------------------
+UF 26.200
+Superficie construida desde: 341 m²
+Desde: 3 Dormitorios, 4 Baños
+Dirección: Camino El Algarrobo 105 , Colina, Metropolitana
+Fecha de entrega: Entrega Inmediata
+Inmobiliaria: Indesa
+Arquitecto: Gonzalo Mardones
+Dividendo estimado: 125,4 UF/mes | Simular
+-------------------------------------------------
+UF 15.793
+Superficie construida desde: 160 m²
+Desde: 3 Dormitorios, 4 Baños
+Dirección: Condominio Av. Jose Rabat Gorchs 11860 , Colina, Metropolitana
+Fecha de entrega:
+Inmobiliaria: Aconcagua
+Construye: Aconcagua
+Arquitecto: sin información
+Dividendo estimado: 75,6 UF/mes | Simular
+-------------------------------------------------
+UF 10.850
+Superficie construida desde: 127,83 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: San Anselmo 480-40 , Colina, Metropolitana
+Fecha de entrega: 2do Semestre 2023
+Inmobiliaria: Sinergía Inmobiliaria S.A
+Arquitecto: sin información
+Dividendo estimado: 51,9 UF/mes | Simular
+-------------------------------------------------
+UF 14.490
+Superficie construida desde: 171,2 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: José Rabat 12000, Chicureo. , Colina, Metropolitana
+Fecha de entrega: 2° Semestre 2022
+Inmobiliaria: Indesa
+Arquitecto: Matias Gonzales y Mariana Gobantes
+Dividendo estimado: 69,4 UF/mes | Simular
+-------------------------------------------------
+UF 14.074
+Superficie construida desde: 168,12 m²
+Desde: 4 Dormitorios, 4 Baños
+Dirección: Av. Guay Guay a 450 mts. De Av. Padre Sergio Correa, Piedra Roja,Chicureo , Colina, Metropolitana
+Fecha de entrega: 2do Trimestre 2023
+Inmobiliaria: Enaco
+Construye: Enaco
+Arquitecto: Tomas Bunster
+Dividendo estimado: 67,4 UF/mes | Simular
+-------------------------------------------------
+UF 19.990
+Superficie construida desde: 284 m²
+Desde: 4 Dormitorios, 4 Baños
+Dirección: Av. Chicureo 1200 , Colina, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Inmobiliaria Los Nogales Ltda.
+Construye: Momenta Construcciones S.A.
+Arquitecto: Armas y Elton
+Dividendo estimado: 95,7 UF/mes | Simular
+-------------------------------------------------
+UF 10.777
+Superficie construida desde: 129,45 m²
+Desde: 4 Dormitorios, 3 Baños
+Dirección: El Manantial 10490 , Colina, Metropolitana
+Fecha de entrega: Diciembre 2021
+Inmobiliaria: Overland Inmobiliaria
+Arquitecto: sin información
+Dividendo estimado: 51,6 UF/mes | Simular
+-------------------------------------------------
+UF 9.613
+Superficie útil desde: 123,55 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: El Manantial 10490 , Colina, Metropolitana
+Fecha de entrega: 1er Trimestre 2022
+Inmobiliaria: Overland Inmobiliaria
+Arquitecto: sin información
+Dividendo estimado: 46 UF/mes | Simular
+-------------------------------------------------
+UF 12.930
+Superficie construida desde: 140 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Avenida José Rabat 9520 , Colina, Metropolitana
+Fecha de entrega: 2do Trimestre 2022 y 1er Trimestre 2023
+Inmobiliaria: Manquehue
+Arquitecto: sin información
+Dividendo estimado: 61,9 UF/mes | Simular
+-------------------------------------------------
+UF 13.318
+Superficie construida desde: 102,38 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Av. José Rabat 9960 , Colina, Metropolitana
+Fecha de entrega: 2do Semestre 2022
+Inmobiliaria: Socovesa
+Construye: Socovesa
+Arquitecto: Gubbins Arquitectos
+Dividendo estimado: 63,7 UF/mes | Simular
+-------------------------------------------------
+UF 14.681
+Superficie construida desde: 164 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Av. José Rabat 8600 , Colina, Metropolitana
+Fecha de entrega: 2do Trimestre 2022 y 1er Trimestre 2023
+Inmobiliaria: Manquehue
+Construye: Manquehue
+Arquitecto: Prieto + Schaffer Arquitectos
+Dividendo estimado: 70,3 UF/mes | Simular
+-------------------------------------------------
+UF 15.480
+Superficie construida desde: 164,7 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Av. José Rabat 9200 , Colina, Metropolitana
+Fecha de entrega:
+Inmobiliaria: Manquehue
+Construye: Manquehue
+Arquitecto: sin información
+Dividendo estimado: 74,1 UF/mes | Simular
+-------------------------------------------------
+UF 15.300
+$ 485.481.240
+Dormitorios 2
+Baño 1
+Superficie Terreno: 6.321 m²
+Metros Útiles: 158 m²
+Fecha publicación: 12-03-2021
+Dividendo estimado: 73,2 UF/mes | Simular
+-------------------------------------------------
+UF 24.900
+$ 790.096.920
+Dormitorios 5
+Baños 5
+Superficie Terreno: 1.193 m²
+Metros Útiles: 323 m²
+Fecha publicación: 05-11-2021
+Dividendo estimado: 119,2 UF/mes | Simular
+-------------------------------------------------
+UF 17.900
+$ 567.981.320
+Dormitorios 5
+Baños 5
+Metros construidos: 250 m²
+Superficie Terreno: 650 m²
+Fecha publicación: 25-11-2021
+Dividendo estimado: 85,7 UF/mes | Simular
+-------------------------------------------------
+UF 31.500
+$ 999.520.200
+Dormitorios 6
+Baños 5
+Metros construidos: 412 m²
+Superficie Terreno: 3.940 m²
+Metros Útiles: 412 m²
+Fecha publicación: 26-06-2021
+Dividendo estimado: 150,8 UF/mes | Simular
+-------------------------------------------------
+UF 23.800
+$ 755.193.040
+Dormitorios 5
+Baños 5
+Metros construidos: 420 m²
+Superficie Terreno: 2.500 m²
+Fecha publicación: 07-03-2022
+Dividendo estimado: 113,9 UF/mes | Simular
+-------------------------------------------------
+UF 29.000
+$ 920.193.200
+Dormitorios 10
+Baños 10
+Superficie Terreno: 5.000 m²
+Metros Útiles: 532 m²
+Fecha publicación: 31-03-2022
+Dividendo estimado: 138,8 UF/mes | Simular
+-------------------------------------------------
+UF 16.000
+$ 507.692.800
+Dormitorios 5
+Baños 5
+Superficie Terreno: 297 m²
+Metros Útiles: 217 m²
+Fecha publicación: 11-02-2022
+Dividendo estimado: 76,6 UF/mes | Simular
+-------------------------------------------------
+UF 26.500
+$ 840.866.200
+Dormitorios 4
+Baños 6
+Superficie Terreno: 4.641 m²
+Metros Útiles: 331 m²
+Fecha publicación: 15-07-2021
+Dividendo estimado: 126,8 UF/mes | Simular
+-------------------------------------------------
+UF 19.850
+$ 629.856.380
+Dormitorios 5
+Baños 4
+Metros construidos: 227 m²
+Superficie Terreno: 859 m²
+Metros Útiles: 227 m²
+Fecha publicación: 31-03-2022
+Dividendo estimado: 95 UF/mes | Simular
+-------------------------------------------------
+UF 14.750
+$ 468.029.300
+Dormitorios 4
+Baños 4
+Superficie Terreno: 607 m²
+Metros Útiles: 250 m²
+Fecha publicación: 23-03-2022
+Dividendo estimado: 70,6 UF/mes | Simular
+-------------------------------------------------
+UF 19.100
+$ 606.058.280
+Dormitorios 3
+Baños 4
+Superficie Terreno: 5.000 m²
+Metros Útiles: 300 m²
+Fecha publicación: 16-02-2022
+Dividendo estimado: 91,4 UF/mes | Simular
+-------------------------------------------------
+UF 14.000
+$ 444.231.200
+Dormitorios 4
+Baños 4
+Superficie Terreno: 447 m²
+Metros Útiles: 146 m²
+Fecha publicación: 28-02-2022
+Dividendo estimado: 67 UF/mes | Simular
+-------------------------------------------------
+UF 26.500
+$ 840.866.200
+Dormitorios 4
+Baños 4
+Metros construidos: 333 m²
+Superficie Terreno: 1.085 m²
+Metros Útiles: 333 m²
+Fecha publicación: 16-10-2021
+Dividendo estimado: 126,8 UF/mes | Simular
+-------------------------------------------------
+UF 45.000
+$ 1.427.886.000
+Dormitorios 6
+Baños 6
+Superficie Terreno: 4.919 m²
+Metros Útiles: 770 m²
+Fecha publicación: 22-11-2018
+Dividendo estimado: 215,4 UF/mes | Simular
+-------------------------------------------------
+UF 23.500
+$ 745.673.800
+Dormitorios 4
+Baños 4
+Superficie Terreno: 4.600 m²
+Metros Útiles: 450 m²
+Fecha publicación: 22-11-2018
+Dividendo estimado: 112,5 UF/mes | Simular
+-------------------------------------------------
+UF 42.000
+$ 1.332.693.600
+Dormitorios 4
+Baños 4
+Superficie Terreno: 5.000 m²
+Metros Útiles: 230 m²
+Fecha publicación: 06-07-2019
+Dividendo estimado: 201 UF/mes | Simular
+-------------------------------------------------
+UF 13.000
+$ 412.500.400
+Superficie Terreno: 5.000 m²
+Metros Útiles: 600 m²
+Fecha publicación: 06-07-2019
+Dividendo estimado: 62,2 UF/mes | Simular
+-------------------------------------------------
+UF 19.000
+$ 602.885.200
+Dormitorios 4
+Baños 3
+Superficie Terreno: 5.000 m²
+Metros Útiles: 490 m²
+Fecha publicación: 22-11-2018
+Dividendo estimado: 90,9 UF/mes | Simular
+-------------------------------------------------
+UF 18.700
+$ 593.365.960
+Dormitorios 4
+Baños 4
+Superficie Terreno: 6.412 m²
+Metros Útiles: 300 m²
+Fecha publicación: 22-11-2018
+Dividendo estimado: 89,5 UF/mes | Simular
+-------------------------------------------------
+UF 17.500
+$ 555.289.000
+Dormitorios 5
+Baños 4
+Superficie Terreno: 5.000 m²
+Metros Útiles: 360 m²
+Fecha publicación: 22-11-2018
+Dividendo estimado: 83,8 UF/mes | Simular
+-------------------------------------------------
+UF 24.000
+$ 761.539.200
+Dormitorios 6
+Baños 7
+Superficie Terreno: 5.000 m²
+Metros Útiles: 550 m²
+Fecha publicación: 18-12-2018
+Dividendo estimado: 114,9 UF/mes | Simular
+-------------------------------------------------
+UF 40.000
+$ 1.269.232.000
+Superficie Terreno: 6.731 m²
+Metros Útiles: 600 m²
+Fecha publicación: 22-11-2018
+Dividendo estimado: 191,5 UF/mes | Simular
+-------------------------------------------------
+UF 19.000
+$ 602.885.200
+Dormitorios 5
+Baños 3
+Superficie Terreno: 5.000 m²
+Metros Útiles: 334 m²
+Fecha publicación: 22-11-2018
+Dividendo estimado: 90,9 UF/mes | Simular
+-------------------------------------------------
+UF 20.900
+$ 663.173.720
+Dormitorios 6
+Baños 5
+Superficie Terreno: 5.000 m²
+Metros Útiles: 484 m²
+Fecha publicación: 17-07-2019
+Dividendo estimado: 100 UF/mes | Simular
+-------------------------------------------------
+UF 24.000
+$ 761.539.200
+Dormitorios 2
+Baños 3
+Superficie Terreno: 5.000 m²
+Metros Útiles: 350 m²
+Fecha publicación: 22-11-2018
+Dividendo estimado: 114,9 UF/mes | Simular
+-------------------------------------------------
+UF 13.000
+$ 412.500.400
+Dormitorios 3
+Baños 3
+Superficie Terreno: 5.000 m²
+Metros Útiles: 260 m²
+Fecha publicación: 22-11-2018
+Dividendo estimado: 62,2 UF/mes | Simular
+-------------------------------------------------
+UF 13.500
+$ 428.365.800
+Superficie Terreno: 5.000 m²
+Metros Útiles: 400 m²
+Fecha publicación: 22-11-2018
+Dividendo estimado: 64,6 UF/mes | Simular
+-------------------------------------------------
+UF 14.400
+$ 456.923.520
+Dormitorios 3
+Baños 4
+Superficie Terreno: 5.000 m²
+Metros Útiles: 450 m²
+Fecha publicación: 22-11-2018
+Dividendo estimado: 68,9 UF/mes | Simular
+-------------------------------------------------
+UF 43.000
+$ 1.364.424.400
+Dormitorios 4
+Baños 4
+Superficie Terreno: 7.453 m²
+Metros Útiles: 500 m²
+Fecha publicación: 22-11-2018
+Dividendo estimado: 205,8 UF/mes | Simular
+-------------------------------------------------
+UF 14.800
+$ 469.615.840
+Dormitorios 5
+Baños 5
+Superficie Terreno: 5.035 m²
+Metros Útiles: 319 m²
+Fecha publicación: 02-12-2021
+Dividendo estimado: 70,8 UF/mes | Simular
+-------------------------------------------------
+UF 14.900
+$ 472.788.920
+Dormitorios 4
+Baños 3
+Superficie Terreno: 5.034 m²
+Metros Útiles: 290 m²
+Fecha publicación: 12-03-2022
+Dividendo estimado: 71,3 UF/mes | Simular
+-------------------------------------------------
+UF 20.000
+$ 634.616.000
+Dormitorios 4
+Baños 4
+Superficie Terreno: 1.081 m²
+Metros Útiles: 306 m²
+Fecha publicación: 24-03-2022
+Dividendo estimado: 95,7 UF/mes | Simular
+-------------------------------------------------
+UF 21.000
+$ 666.346.800
+Dormitorios 4
+Baños 4
+Superficie Terreno: 1.081 m²
+Metros Útiles: 306 m²
+Fecha publicación: 19-03-2022
+Dividendo estimado: 100,5 UF/mes | Simular
+-------------------------------------------------
+UF 21.000
+$ 666.346.800
+Dormitorios 4
+Baños 4
+Superficie Terreno: 1.081 m²
+Metros Útiles: 306 m²
+Fecha publicación: 30-03-2022
+Dividendo estimado: 100,5 UF/mes | Simular
+-------------------------------------------------
+UF 33.990
+$ 1.078.529.892
+Dormitorios 5
+Baños 5
+Superficie Terreno: 5.000 m²
+Metros Útiles: 438 m²
+Fecha publicación: 08-03-2022
+Dividendo estimado: 162,7 UF/mes | Simular
+-------------------------------------------------
+UF 15.500
+$ 491.827.400
+Dormitorios 3
+Baños 3
+Superficie Terreno: 450 m²
+Metros Útiles: 162 m²
+Fecha publicación: 08-03-2022
+Dividendo estimado: 74,2 UF/mes | Simular
+-------------------------------------------------
+UF 15.990
+$ 507.375.492
+Dormitorios 4
+Baños 4
+Superficie Terreno: 410 m²
+Metros Útiles: 174 m²
+Fecha publicación: 06-04-2022
+Dividendo estimado: 76,5 UF/mes | Simular
+-------------------------------------------------
+UF 14.750
+$ 468.029.300
+Dormitorios 4
+Baños 4
+Superficie Terreno: 607 m²
+Metros Útiles: 250 m²
+Fecha publicación: 27-03-2022
+Dividendo estimado: 70,6 UF/mes | Simular
+-------------------------------------------------
+UF 32.500
+$ 1.031.251.000
+Dormitorios 5
+Baños 4
+Superficie Terreno: 2.500 m²
+Metros Útiles: 450 m²
+Fecha publicación: 25-03-2022
+Dividendo estimado: 155,6 UF/mes | Simular
+-------------------------------------------------
+UF 22.900
+$ 726.635.320
+Dormitorios 5
+Baños 4
+Superficie Terreno: 3.200 m²
+Metros Útiles: 330 m²
+Fecha publicación: 17-06-2019
+Dividendo estimado: 109,6 UF/mes | Simular
+-------------------------------------------------
+UF 49.500
+$ 1.570.674.600
+Dormitorios 5
+Baños 5
+Superficie Terreno: 2.357 m²
+Metros Útiles: 510 m²
+Fecha publicación: 31-03-2022
+Dividendo estimado: 236,9 UF/mes | Simular
+-------------------------------------------------
+UF 17.000
+$ 539.423.600
+Dormitorios 4
+Baños 4
+Superficie Terreno: 636,2 m²
+Metros Útiles: 235 m²
+Fecha publicación: 25-03-2022
+Dividendo estimado: 81,4 UF/mes | Simular
+-------------------------------------------------
+UF 26.500
+$ 840.866.200
+Dormitorios 4
+Baños 4
+Superficie Terreno: 930 m²
+Metros Útiles: 350 m²
+Fecha publicación: 14-03-2022
+Dividendo estimado: 126,8 UF/mes | Simular
+-------------------------------------------------
+UF 48.500
+$ 1.538.943.800
+Dormitorios 5
+Baños 4
+Superficie Terreno: 2.356 m²
+Metros Útiles: 530 m²
+Fecha publicación: 19-04-2022
+Dividendo estimado: 232,2 UF/mes | Simular
+-------------------------------------------------
+UF 48.500
+$ 1.538.943.800
+Dormitorios 6
+Baños 5
+Superficie Terreno: 2.356 m²
+Metros Útiles: 510 m²
+Fecha publicación: 18-04-2022
+Dividendo estimado: 232,2 UF/mes | Simular
+-------------------------------------------------
+UF 48.000
+$ 1.523.078.400
+Dormitorios 6
+Baños 6
+Superficie Terreno: 2.465 m²
+Metros Útiles: 496 m²
+Fecha publicación: 25-03-2022
+Dividendo estimado: 229,8 UF/mes | Simular
+-------------------------------------------------
+UF 27.200
+$ 863.077.760
+Dormitorios 6
+Baños 6
+Superficie Terreno: 5.411 m²
+Metros Útiles: 611 m²
+Fecha publicación: 05-04-2022
+Dividendo estimado: 130,2 UF/mes | Simular
+-------------------------------------------------
+UF 15.900
+$ 504.519.720
+Dormitorios 4
+Baños 4
+Superficie Terreno: 410 m²
+Metros Útiles: 174 m²
+Fecha publicación: 27-03-2022
+Dividendo estimado: 76,1 UF/mes | Simular
+-------------------------------------------------
+UF 14.900
+$ 472.788.920
+Dormitorios 4
+Baños 3
+Superficie Terreno: 382,8 m²
+Metros Útiles: 156,3 m²
+Fecha publicación: 18-03-2022
+Dividendo estimado: 71,3 UF/mes | Simular
+-------------------------------------------------
+UF 14.650
+$ 464.856.220
+Dormitorios 3
+Baños 3
+Superficie Terreno: 600 m²
+Metros Útiles: 140 m²
+Fecha publicación: 16-03-2022
+Dividendo estimado: 70,1 UF/mes | Simular
+-------------------------------------------------
+UF 16.290
+$ 516.894.732
+Dormitorios 3
+Baños 3
+Superficie Terreno: 620 m²
+Metros Útiles: 187 m²
+Fecha publicación: 31-03-2022
+Dividendo estimado: 78 UF/mes | Simular
+-------------------------------------------------
+UF 17.950
+$ 569.567.860
+Dormitorios 4
+Baños 4
+Superficie Terreno: 649 m²
+Metros Útiles: 230 m²
+Fecha publicación: 01-04-2022
+Dividendo estimado: 85,9 UF/mes | Simular
+-------------------------------------------------
+UF 17.000
+$ 539.423.600
+Dormitorios 4
+Baños 4
+Superficie Terreno: 600 m²
+Metros Útiles: 180 m²
+Fecha publicación: 26-04-2022
+Dividendo estimado: 81,4 UF/mes | Simular
+-------------------------------------------------
+UF 46.000
+$ 1.459.616.800
+Dormitorios 4
+Baños 4
+Superficie Terreno: 5.469 m²
+Metros Útiles: 454 m²
+Fecha publicación: 19-04-2022
+Dividendo estimado: 220,2 UF/mes | Simular
+-------------------------------------------------
+UF 17.900
+$ 567.981.320
+Dormitorios 4
+Baños 4
+Superficie Terreno: 694 m²
+Metros Útiles: 189 m²
+Fecha publicación: 22-03-2022
+Dividendo estimado: 85,7 UF/mes | Simular
+-------------------------------------------------
+UF 23.700
+$ 752.019.960
+Dormitorios 6
+Baños 4
+Superficie Terreno: 812 m²
+Metros Útiles: 267,9 m²
+Fecha publicación: 17-03-2022
+Dividendo estimado: 113,4 UF/mes | Simular
+-------------------------------------------------
+UF 27.600
+$ 875.770.080
+Dormitorios 5
+Baños 5
+Superficie Terreno: 2.200 m²
+Metros Útiles: 450 m²
+Fecha publicación: 19-03-2022
+Dividendo estimado: 132,1 UF/mes | Simular
+-------------------------------------------------
+UF 26.500
+$ 840.866.200
+Dormitorios 5
+Baños 4
+Superficie Terreno: 1.012 m²
+Metros Útiles: 373 m²
+Fecha publicación: 30-03-2022
+Dividendo estimado: 126,8 UF/mes | Simular
+-------------------------------------------------
+UF 16.900
+$ 536.250.520
+Dormitorios 4
+Baños 5
+Superficie Terreno: 5.004 m²
+Metros Útiles: 268 m²
+Fecha publicación: 07-04-2022
+Dividendo estimado: 80,9 UF/mes | Simular
+-------------------------------------------------
+UF 18.000
+$ 571.154.400
+Dormitorios 4
+Baños 4
+Superficie Terreno: 4.192 m²
+Metros Útiles: 189 m²
+Fecha publicación: 25-03-2022
+Dividendo estimado: 86,2 UF/mes | Simular
+-------------------------------------------------
+UF 29.000
+$ 920.193.200
+Dormitorios 4
+Baños 4
+Superficie Terreno: 4.549 m²
+Metros Útiles: 250 m²
+Fecha publicación: 10-04-2022
+Dividendo estimado: 138,8 UF/mes | Simular
+-------------------------------------------------
+UF 16.500
+$ 523.558.200
+Dormitorios 3
+Baños 3
+Superficie Terreno: 2.150 m²
+Metros Útiles: 190 m²
+Fecha publicación: 22-03-2022
+Dividendo estimado: 79 UF/mes | Simular
+-------------------------------------------------
+UF 25.000
+$ 793.270.000
+Dormitorios 4
+Baños 4
+Superficie Terreno: 5.001 m²
+Metros Útiles: 322 m²
+Fecha publicación: 29-03-2022
+Dividendo estimado: 119,7 UF/mes | Simular
+-------------------------------------------------
+UF 19.000
+$ 602.885.200
+Dormitorios 5
+Baños 4
+Superficie Terreno: 5.800 m²
+Metros Útiles: 320 m²
+Fecha publicación: 07-05-2019
+Dividendo estimado: 90,9 UF/mes | Simular
+-------------------------------------------------
+UF 14.460
+$ 458.827.368
+Dormitorios 3
+Baños 3
+Superficie Terreno: 490 m²
+Metros Útiles: 140 m²
+Fecha publicación: 08-04-2022
+Dividendo estimado: 69,2 UF/mes | Simular
+-------------------------------------------------
+UF 22.500
+$ 713.943.000
+Dormitorios 9
+Baños 7
+Superficie Terreno: 5.000 m²
+Metros Útiles: 415 m²
+Fecha publicación: 15-04-2022
+Dividendo estimado: 107,7 UF/mes | Simular
+-------------------------------------------------
+UF 17.990
+$ 570.837.092
+Dormitorios 4
+Baños 3
+Superficie Terreno: 5.120 m²
+Metros Útiles: 240 m²
+Fecha publicación: 18-03-2022
+Dividendo estimado: 86,1 UF/mes | Simular
+-------------------------------------------------
+UF 18.900
+$ 599.712.120
+Dormitorios 4
+Baños 3
+Superficie Terreno: 5.000 m²
+Metros Útiles: 240 m²
+Fecha publicación: 19-03-2022
+Dividendo estimado: 90,5 UF/mes | Simular
+-------------------------------------------------
+UF 19.800
+$ 628.269.840
+Dormitorios 5
+Baños 4
+Superficie Terreno: 900 m²
+Metros Útiles: 270 m²
+Fecha publicación: 10-03-2022
+Dividendo estimado: 94,8 UF/mes | Simular
+-------------------------------------------------
+UF 16.950
+$ 537.837.060
+Dormitorios 4
+Baños 4
+Superficie Terreno: 636 m²
+Metros Útiles: 235 m²
+Fecha publicación: 17-03-2022
+Dividendo estimado: 81,1 UF/mes | Simular
+-------------------------------------------------
+UF 9.390
+$ 297.952.212
+Dormitorios 3
+Baños 3
+Superficie Terreno: 300 m²
+Metros Útiles: 145 m²
+Fecha publicación: 06-04-2022
+Dividendo estimado: 44,9 UF/mes | Simular
+-------------------------------------------------
+UF 24.000
+$ 761.539.200
+Dormitorios 4
+Baños 4
+Superficie Terreno: 5.000 m²
+Metros Útiles: 284 m²
+Fecha publicación: 10-04-2022
+Dividendo estimado: 114,9 UF/mes | Simular
+-------------------------------------------------
+UF 22.500
+$ 713.943.000
+Dormitorios 4
+Baños 4
+Metros construidos: 404 m²
+Superficie Terreno: 3.742 m²
+Metros Útiles: 404 m²
+Fecha publicación: 09-03-2022
+Dividendo estimado: 107,7 UF/mes | Simular
+-------------------------------------------------
+UF 14.500
+$ 460.096.600
+Dormitorios 4
+Baños 4
+Superficie Terreno: 1.482 m²
+Metros Útiles: 363 m²
+Fecha publicación: 08-04-2022
+Dividendo estimado: 69,4 UF/mes | Simular
+-------------------------------------------------
+UF 16.690
+$ 529.587.052
+Dormitorios 3
+Baños 4
+Superficie Terreno: 616 m²
+Metros Útiles: 186 m²
+Fecha publicación: 05-04-2022
+Dividendo estimado: 79,9 UF/mes | Simular
+-------------------------------------------------
+UF 19.300
+$ 612.404.440
+Dormitorios 5
+Baños 4
+Superficie Terreno: 760 m²
+Metros Útiles: 250 m²
+Fecha publicación: 16-03-2022
+Dividendo estimado: 92,4 UF/mes | Simular
+-------------------------------------------------
+UF 60.000
+$ 1.903.848.000
+Dormitorios 4
+Baños 5
+Superficie Terreno: 3.425 m²
+Metros Útiles: 430 m²
+Fecha publicación: 25-03-2022
+Dividendo estimado: 287,2 UF/mes | Simular
+-------------------------------------------------
+UF 27.800
+$ 882.116.240
+Dormitorios 5
+Baños 5
+Superficie Terreno: 3.900 m²
+Metros Útiles: 450 m²
+Fecha publicación: 12-03-2022
+Dividendo estimado: 133,1 UF/mes | Simular
+-------------------------------------------------
+UF 3.140
+Superficie construida desde: 86 m²
+Desde: 3 Dormitorios, 2 Baños
+Dirección: Av. Vicuña Mackenna s/n, callejón el Maitén , Melipilla, Metropolitana
+Fecha de entrega: En verde
+Inmobiliaria: Malpo Constructora e Inmobiliaria
+Construye: Malpo Constructora e Inmobiliaria
+Arquitecto: sin información
+Dividendo estimado: 15 UF/mes | Simular
+-------------------------------------------------
+UF 1.540
+Superficie construida desde: 55,15 m²
+Desde: 3 Dormitorios, 1 Baño
+Dirección: Serrano 264 , Melipilla, Metropolitana
+Fecha de entrega: 2do Semestre 2023
+Inmobiliaria: Concrecasa
+Arquitecto: sin información
+Dividendo estimado: 07,4 UF/mes | Simular
+-------------------------------------------------
+UF 1.400
+Superficie útil desde: 42,72 m²
+Desde: 2 Dormitorios, 1 Baño
+Dirección: Serrano 241 , Melipilla, Metropolitana
+Fecha de entrega: 1er Semestre 2022
+Inmobiliaria: Concrecasa
+Arquitecto: sin información
+Cantidad de pisos: 4
+Dividendo estimado: 06,7 UF/mes | Simular
+-------------------------------------------------
+UF 2.433
+Superficie construida desde: 63,7 m²
+Desde: 3 Dormitorios, 2 Baños
+Dirección: Calle Alcalde 765 , Melipilla, Metropolitana
+Fecha de entrega: Diciembre 2019
+Inmobiliaria: Queylén
+Construye: Queylén
+Arquitecto: Campino Arquitectos Asociados
+Dividendo estimado: 11,6 UF/mes | Simular
+-------------------------------------------------

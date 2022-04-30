@@ -1,0 +1,69 @@
+UF 6.936
+Superficie útil desde: 78,06 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: José Miguel Claro 275 , Providencia, Metropolitana
+Fecha de entrega: Entrega inmediata
+Inmobiliaria: Echeverría Izquierdo
+Construye: Echeverría Izquierdo
+Arquitecto: Badía Y Soffia Arquitectos
+Dividendo estimado: 33,2 UF/mes | Simular
+-------------------------------------------------
+UF 8.195
+Superficie útil desde: 79,43 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Av. Ricardo Lyon 2107 , Providencia, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Inmobiliaria GENESIS
+Arquitecto: Raul Sará M.
+Dividendo estimado: 39,2 UF/mes | Simular
+-------------------------------------------------
+UF 5.195
+Superficie útil desde: 43,7 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Doctor Pedro Lautaro Ferrer 2814 , Providencia, Metropolitana
+Fecha de entrega: 2 Trimestre 2020
+Inmobiliaria: Visión Inmobiliaria
+Arquitecto: sin información
+Cantidad de pisos: 6
+Dividendo estimado: 24,9 UF/mes | Simular
+-------------------------------------------------
+UF 5.890
+Superficie útil desde: 61,9 m²
+Desde: 2 Dormitorios, 2 Baños
+Dirección: Av. Pedro de Valdivia 2425 , Providencia, Metropolitana
+Fecha de entrega: 3 trimestre 2019
+Inmobiliaria: Constructora Ignacio Hurtado
+Construye: Constructora Ignacio Hurtado
+Arquitecto: Estudio Larraín
+Cantidad de pisos: 9
+Dividendo estimado: 28,2 UF/mes | Simular
+-------------------------------------------------
+UF 4.790
+Superficie útil desde: 37,7 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: José Manuel Infante 1045 , Providencia, Metropolitana
+Fecha de entrega: 2 Semestre 2022
+Inmobiliaria: Inmobiliaria JMI SPA
+Construye: Constructora Ignacio Hurtado
+Arquitecto: sin información
+Cantidad de pisos: 4
+Dividendo estimado: 22,9 UF/mes | Simular
+-------------------------------------------------
+UF 13.690
+Superficie construida desde: 127 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Lautaro 774 , Providencia, Metropolitana
+Fecha de entrega: 1 Semestre 2022
+Inmobiliaria: Inmobiliaria IKNOW
+Arquitecto: Felipe Ortiz
+Dividendo estimado: 65,5 UF/mes | Simular
+-------------------------------------------------
+UF 11.990
+Superficie construida desde: 125,26 m²
+Desde: 3 Dormitorios, 3 Baños
+Dirección: Luis Montaner 553 , Providencia, Metropolitana
+Fecha de entrega: 2do Semestre 2024
+Inmobiliaria: Inmobiliaria IKNOW
+Arquitecto: sin información
+Dividendo estimado: 57,4 UF/mes | Simular
+-------------------------------------------------

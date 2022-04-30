@@ -1,0 +1,188 @@
+UF 2.332
+Superficie útil desde: 28,74 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Francia 1345 , Independencia, Metropolitana
+Fecha de entrega: 2do Semestre 2023
+Inmobiliaria: Convet
+Construye: Convet
+Arquitecto: Eugenio Robertson Coo
+Cantidad de pisos: 12
+Dividendo estimado: 11,2 UF/mes | Simular
+-------------------------------------------------
+UF 2.707
+Superficie útil desde: 32,6 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Nueva San Cristóbal 1220 , Independencia, Metropolitana
+Fecha de entrega: 1 Semestre 2024
+Inmobiliaria: Surmonte Inmobiliaria
+Arquitecto: Alvano y Riquelme
+Cantidad de pisos: 12
+Dividendo estimado: 13 UF/mes | Simular
+-------------------------------------------------
+UF 2.250
+Superficie útil desde: 31,07 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Domingo Santa María 1846 , Independencia, Metropolitana
+Fecha de entrega: 1er Semestre 2022
+Inmobiliaria: Inmobiliaria Nollagam Ltda.
+Construye: Constructora Nollagam Ltda.
+Arquitecto: Astaburuaga y Asociados Arquitectos
+Cantidad de pisos: 12
+Dividendo estimado: 10,8 UF/mes | Simular
+-------------------------------------------------
+UF 2.699
+Superficie útil desde: 36,6 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Cotapos 1369 , Independencia, Metropolitana
+Fecha de entrega: 2do. Semestre 2021
+Inmobiliaria: Inmobiliaria FG
+Arquitecto: RE Arquitectos
+Cantidad de pisos: 12
+Dividendo estimado: 12,9 UF/mes | Simular
+-------------------------------------------------
+UF 2.568
+Superficie útil desde: 42,83 m²
+Desde: 2 Dormitorios, 1 Baño
+Dirección: Coronel Alvarado 2505 , Independencia, Metropolitana
+Fecha de entrega: 2° Semestre 2022
+Inmobiliaria: Maestra
+Arquitecto: sin información
+Cantidad de pisos: 11
+Dividendo estimado: 12,3 UF/mes | Simular
+-------------------------------------------------
+UF 1.890
+Superficie útil desde: 30,81 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Las Araucarias 2703 , Independencia, Metropolitana
+Fecha de entrega: 2° Semestre 2022
+Inmobiliaria: Maestra
+Arquitecto: sin información
+Cantidad de pisos: 5
+Dividendo estimado: 09 UF/mes | Simular
+-------------------------------------------------
+UF 2.128
+Superficie útil desde: 30,9 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Carrión 1507 , Independencia, Metropolitana
+Fecha de entrega: 1er Semestre 2023
+Inmobiliaria: PAZ
+Construye: PAZ
+Arquitecto: Squella Arquitectos
+Cantidad de pisos: 24
+Dividendo estimado: 10,2 UF/mes | Simular
+-------------------------------------------------
+UF 2.365
+Superficie útil desde: 31,2 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Carrión 1507 , Independencia, Metropolitana
+Fecha de entrega: Primer Semestre 2022
+Inmobiliaria: PAZ
+Construye: PAZ
+Arquitecto: Squella Arquitectos
+Dividendo estimado: 11,3 UF/mes | Simular
+-------------------------------------------------
+UF 3.159
+Superficie útil desde: 34,18 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Huánuco 2290 , Independencia, Metropolitana
+Fecha de entrega: 2° trimestre 2023
+Inmobiliaria: Grupo Activa
+Arquitecto: Activa Inmobiliaria
+Cantidad de pisos: 13
+Dividendo estimado: 15,1 UF/mes | Simular
+-------------------------------------------------
+UF 1.825
+Superficie útil desde: 38,05 m²
+Desde: 2 Dormitorios, 1 Baño
+Dirección: Coronel Alvarado 2180 , Independencia, Metropolitana
+Fecha de entrega: 1 Semestre 2022
+Inmobiliaria: Larraín Prieto
+Construye: Larraín Prieto
+Arquitecto: Cuarq Arquitectos
+Cantidad de pisos: 11
+Dividendo estimado: 08,7 UF/mes | Simular
+-------------------------------------------------
+UF 2.391
+Superficie útil desde: 31,68 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: David Arellano 1810 , Independencia, Metropolitana
+Fecha de entrega: 1er Semestre 2022
+Inmobiliaria: Diaz Cumsille Inmobiliaria y Constructora S.A.
+Construye: Diaz Cumsille Inmobiliaria y Constructora S.A.
+Arquitecto: sin información
+Dividendo estimado: 11,4 UF/mes | Simular
+-------------------------------------------------
+UF 1.980
+Superficie útil desde: 27,22 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Av. Independencia 2264 , Independencia, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Inmobiliaria Desarrollo Urbano S.A.
+Construye: Diaz Cumsille Inmobiliaria y Constructora S.A.
+Arquitecto: Hernán Varela y Raimundo Varela
+Dividendo estimado: 09,5 UF/mes | Simular
+-------------------------------------------------
+UF 2.119
+Superficie útil desde: 21,92 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Fermín Vivaceta 1702 , Independencia, Metropolitana
+Fecha de entrega: 1 Semestre 2023
+Inmobiliaria: Inmobilia S.A.
+Construye: Ingevec
+Arquitecto: Inmobilia
+Cantidad de pisos: 25
+Dividendo estimado: 10,1 UF/mes | Simular
+-------------------------------------------------
+UF 2.486
+Superficie útil desde: 30,17 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Hipódromo 1816 , Independencia, Metropolitana
+Fecha de entrega: 2º semestre 2023
+Inmobiliaria: Leben Grupo Inmobiliario
+Construye: Constructora AP
+Arquitecto: Alessandro Oppici
+Cantidad de pisos: 8
+Dividendo estimado: 11,9 UF/mes | Simular
+-------------------------------------------------
+UF 2.632
+Superficie útil desde: 35,91 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Av. Hipódromo Chile 1605 , Independencia, Metropolitana
+Fecha de entrega: 2 Semestre 2022
+Inmobiliaria: Grupo Inmobiliario Santafe
+Construye: SANTA FE
+Arquitecto: sin información
+Cantidad de pisos: 10
+Dividendo estimado: 12,6 UF/mes | Simular
+-------------------------------------------------
+UF 3.128
+Superficie útil desde: 33,47 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Belisario Prats 1870 , Independencia, Metropolitana
+Fecha de entrega:
+Inmobiliaria: Grupo Activa
+Arquitecto: sin información
+Dividendo estimado: 15 UF/mes | Simular
+-------------------------------------------------
+UF 2.450
+Superficie útil desde: 32,44 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Sergio Livingstone 1148 , Independencia, Metropolitana
+Fecha de entrega: Inmediata
+Inmobiliaria: Proyecta Inmobiliaria
+Construye: Ingevec
+Arquitecto: Pablo Bravo
+Cantidad de pisos: 21
+Dividendo estimado: 11,7 UF/mes | Simular
+-------------------------------------------------
+UF 2.480
+Superficie útil desde: 30,58 m²
+Desde: 1 Dormitorio, 1 Baño
+Dirección: Independencia 2935 , Independencia, Metropolitana
+Fecha de entrega:
+Inmobiliaria: Inmobiliaria Núcleos
+Construye: EBCO
+Arquitecto: Miguel Alemparte Lyon
+Cantidad de pisos: 12
+Dividendo estimado: 11,9 UF/mes | Simular
+-------------------------------------------------
