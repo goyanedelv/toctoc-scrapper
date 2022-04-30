@@ -71,13 +71,13 @@ def get_particulares(time_tag, parameters):
         try:
             driver.get(line.replace("\n",""))
 
-            time.sleep(4)
+            #time.sleep(4)
 
-            element = WebDriverWait(driver, 4).until(
+            element = WebDriverWait(driver, 3).until(
                 EC.presence_of_element_located((By.XPATH, "//div[contains(@class, 'precio-b') or contains(@class, 'precio-ficha')]"))
             )
             all_info.append(element.text)
-            element_2 = WebDriverWait(driver, 4).until(
+            element_2 = WebDriverWait(driver, 3).until(
                 EC.presence_of_element_located((By.XPATH, "//ul[contains(@class, 'info_ficha')]"))
             )
             all_info.append(element_2.text)
