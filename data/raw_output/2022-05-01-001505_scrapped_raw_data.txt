@@ -1,0 +1,337 @@
+UF 2.900
+$ 92.019.320
+header:
+Avenida Salesianos
+Dormitorio 1
+Baño 1
+Metros construidos: 36 m²
+Metros Útiles: 32 m²
+Fecha publicación: 07-03-2022
+Dividendo estimado: 13,9 UF/mes | Simular
+-------------------------------------------------
+UF 2.990
+$ 94.875.092
+header:
+Avenida Salesianos
+Dormitorio 1
+Baño 1
+Metros construidos: 44 m²
+Metros Útiles: 42 m²
+Fecha publicación: 17-01-2022
+Dividendo estimado: 14,3 UF/mes | Simular
+-------------------------------------------------
+$ 119.000.000
+UF 3.750,3
+header:
+Berlín
+Dormitorios 2
+Baños 2
+Metros construidos: 66 m²
+Metros Útiles: 55 m²
+Fecha publicación: 17-01-2022
+Dividendo estimado: 18 UF/mes | Simular
+-------------------------------------------------
+UF 2.990
+$ 94.875.092
+header:
+Avenida Salesianos
+Dormitorio 1
+Baño 1
+Metros construidos: 44 m²
+Metros Útiles: 42 m²
+Fecha publicación: 17-01-2022
+Dividendo estimado: 14,3 UF/mes | Simular
+-------------------------------------------------
+UF 3.070
+$ 97.413.556
+header:
+Ventura Blanco Viel
+Dormitorios 2
+Baño 1
+Metros construidos: 46 m²
+Metros Útiles: 43 m²
+Fecha publicación: 16-04-2022
+Dividendo estimado: 14,7 UF/mes | Simular
+-------------------------------------------------
+UF 3.100
+$ 98.365.480
+header:
+Teresa Vial
+Dormitorio 1
+Baño 1
+Metros construidos: 45 m²
+Metros Útiles: 40 m²
+Fecha publicación: 17-01-2022
+Dividendo estimado: 14,8 UF/mes | Simular
+-------------------------------------------------
+UF 4.000
+$ 126.923.200
+header:
+Alcalde Pedro Alarcón
+Dormitorios 3
+Baños 2
+Metros construidos: 82 m²
+Metros Útiles: 80 m²
+Fecha publicación: 17-01-2022
+Dividendo estimado: 19,1 UF/mes | Simular
+-------------------------------------------------
+UF 3.000
+$ 95.192.400
+header:
+Alcalde Pedro Alarcón 963
+Dormitorios 2
+Baños 2
+Metros construidos: 60 m²
+Metros Útiles: 57 m²
+Fecha publicación: 17-03-2022
+Dividendo estimado: 14,4 UF/mes | Simular
+-------------------------------------------------
+$ 130.000.000
+UF 4.096,97
+header:
+Alcalde Pedro Alarcón
+Dormitorios 3
+Baños 2
+Metros construidos: 85 m²
+Metros Útiles: 78 m²
+Fecha publicación: 17-01-2022
+Dividendo estimado: 19,6 UF/mes | Simular
+-------------------------------------------------
+UF 3.400
+$ 107.884.720
+header:
+Alcalde Pedro Alarcón
+Dormitorios 3
+Baños 2
+Metros construidos: 78 m²
+Metros Útiles: 78 m²
+Fecha publicación: 17-01-2022
+Dividendo estimado: 16,3 UF/mes | Simular
+-------------------------------------------------
+UF 2.815
+$ 89.322.202
+header:
+Chiloé 3601
+Dormitorio 1
+Baño 1
+Metros construidos: 37 m²
+Metros Útiles: 33 m²
+Fecha publicación: 17-03-2022
+Dividendo estimado: 13,5 UF/mes | Simular
+-------------------------------------------------
+UF 2.900
+$ 92.019.320
+header:
+Alcalde Pedro Alarcón
+Dormitorios 2
+Baños 2
+Metros construidos: 53 m²
+Metros Útiles: 49 m²
+Fecha publicación: 17-01-2022
+Dividendo estimado: 13,9 UF/mes | Simular
+-------------------------------------------------
+UF 2.200
+$ 69.807.760
+header:
+PARADERO 6 DE AV SANTA ROSA
+Dormitorios 3
+Baño 1
+Metros construidos: 54 m²
+Metros Útiles: 52 m²
+Fecha publicación: 17-03-2022
+Dividendo estimado: 10,5 UF/mes | Simular
+-------------------------------------------------
+$ 130.000.000
+UF 4.096,97
+header:
+Avenida Alcalde Pedro Alarcón 997 A23, San Miguel
+Dormitorios 3
+Baños 2
+Metros Útiles: 78 m²
+Superficie Terraza: 7 m²
+Fecha publicación: 20-06-2020
+-------------------------------------------------
+UF 2.520
+$ 79.961.616
+header:
+Bello Depto 1D1B en San Miguel venta
+Dormitorio 1
+Baño 1
+Metros construidos: 33 m²
+Fecha publicación: 04-01-2022
+Dividendo estimado: 12,1 UF/mes | Simular
+-------------------------------------------------
+UF 3.380
+$ 107.250.104
+header:
+Alcalde Pedro Alarcón
+Dormitorios 2
+Baños 2
+Metros construidos: 64 m²
+Metros Útiles: 59 m²
+Fecha publicación: 17-01-2022
+Dividendo estimado: 16,2 UF/mes | Simular
+-------------------------------------------------
+$ 95.000.000
+UF 2.993,94
+header:
+Alcalde Pedro Alarcón 963 departamento
+Dormitorios 2
+Baño 1
+Metros construidos: 50 m²
+Metros Útiles: 49 m²
+Fecha publicación: 23-03-2022
+Dividendo estimado: 14,3 UF/mes | Simular
+-------------------------------------------------
+UF 5.500
+$ 174.519.400
+header:
+ventura blanco viel 1400, San Miguel
+Dormitorios 3
+Baños 2
+Metros Útiles: 63 m²
+Superficie Terraza: 4 m²
+Fecha publicación: 05-02-2022
+Dividendo estimado: 26,3 UF/mes | Simular
+-------------------------------------------------
+UF 8.900
+$ 282.404.120
+header:
+Soto Aguilar 1603, San Miguel
+Dormitorios 5
+Baños 3
+Metros construidos: 168 m²
+Superficie Terreno: 275 m²
+Fecha publicación: 12-10-2021
+-------------------------------------------------
+UF 7.500
+$ 237.981.000
+header:
+Casa en Pasaje con Amplio Patio
+Año: 1963
+Dormitorios 4
+Baños 2
+Metros construidos: 100,7 m²
+Superficie Terreno: 345,6 m²
+Fecha publicación: 03-04-2022
+Dividendo estimado: 35,9 UF/mes | Simular
+-------------------------------------------------
+UF 2.950
+$ 93.605.860
+header:
+Fernando Lazcano
+Dormitorio 1
+Baño 1
+Metros construidos: 46 m²
+Metros Útiles: 38 m²
+Fecha publicación: 18-01-2022
+Dividendo estimado: 14,1 UF/mes | Simular
+-------------------------------------------------
+UF 3.150
+$ 99.952.020
+header:
+Carlos Silva Vildósola 870 610, San Miguel
+Dormitorios 2
+Baños 2
+Metros Útiles: 53,1 m²
+Superficie Terraza: 03,5 m²
+Orientacion: 3
+Estacionamientos: 1
+Bodegas: 1
+Fecha publicación: 04-04-2022
+Dividendo estimado: 15,1 UF/mes | Simular
+-------------------------------------------------
+UF 5.400
+$ 171.346.320
+header:
+Calle San Ignacio de Loyola
+Dormitorios 3
+Baños 2
+Metros construidos: 90 m²
+Metros Útiles: 85 m²
+Fecha publicación: 17-01-2022
+Dividendo estimado: 25,8 UF/mes | Simular
+-------------------------------------------------
+$ 145.000.000
+UF 4.569,69
+header:
+Ramón Barros Luco
+Dormitorios 2
+Baños 2
+Metros construidos: 80 m²
+Metros Útiles: 80 m²
+Fecha publicación: 18-01-2022
+Dividendo estimado: 21,9 UF/mes | Simular
+-------------------------------------------------
+$ 166.000.000
+UF 5.231,51
+header:
+CASA DE TRES PISOS 4D Y 3B en OROMPELLO 7334
+Año: 2006
+Dormitorios 4
+Baños 3
+Metros Útiles: 110 m²
+Superficie Terraza: 1 m²
+Orientacion: 6
+Servicios: 1
+Estacionamientos: 1
+Bodegas: 1
+Fecha publicación: 24-05-2021
+-------------------------------------------------
+UF 5.205
+$ 165.158.814
+header:
+casa en Llano San Miguel
+Año: 1963
+Dormitorios 3
+Baño 1
+Metros construidos: 85 m²
+Superficie Terreno: 210 m²
+Fecha publicación: 14-03-2022
+Dividendo estimado: 24,9 UF/mes | Simular
+-------------------------------------------------
+UF 4.500
+$ 142.788.600
+header:
+Arcangel
+Dormitorios 2
+Baños 2
+Metros construidos: 58 m²
+Metros Útiles: 52 m²
+Fecha publicación: 12-02-2022
+Dividendo estimado: 21,5 UF/mes | Simular
+-------------------------------------------------
+$ 175.000.000
+UF 5.515,15
+header:
+Calle San Ignacio de Loyola
+Dormitorios 3
+Baños 2
+Metros construidos: 82 m²
+Metros Útiles: 77 m²
+Fecha publicación: 24-04-2022
+Dividendo estimado: 26,1 UF/mes | Simular
+-------------------------------------------------
+UF 9.100
+$ 288.750.280
+header:
+MONJA ALFEREZ 3541, San Miguel
+Año: 1963
+Dormitorios 4
+Baños 2
+Metros construidos: 140 m²
+Superficie Terreno: 326 m²
+Fecha publicación: 28-03-2022
+Dividendo estimado: 43,6 UF/mes | Simular
+-------------------------------------------------
+UF 4.000
+$ 126.923.200
+header:
+Sexta Avenida
+Dormitorios 3
+Baños 2
+Metros construidos: 66 m²
+Metros Útiles: 63 m²
+Fecha publicación: 18-01-2022
+Dividendo estimado: 19,1 UF/mes | Simular
+-------------------------------------------------

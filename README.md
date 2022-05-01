@@ -9,15 +9,13 @@
 - `get_generales(...)`: genera los links de propiedades particulares a partir de los link semilla.
 - `get_particulares(...)`: scrapea la información de las 30 propiedades por cada link semilla.
 - `get_full_site(...)`: scrapea todo el `html` del sitio (usar con precaución).
+- `parse_raw_to_excel.py`: para transformar información scrapeada en `txt` de la carpeta `data/raw_output` a `xlsx` en la carpeta `data/db_output`.
 
 ### Parámetros
 - `parametros.yaml`: archivo de configuración para establecer ubicación de `chromedriver` y nivel de tolerancia (cuántos errores aceptamos antes de abortar el scrapping de un archivo semilla).
 
 ### Dependencias
 - `selenium`
-
-### Proximamente
-- `toctoc_parser.py`: para transformar información scrapeada en `txt` a `xlsx`.
 
 ### Archivos de ejemplo
 - `seed_links_test.txt`. Archivo semilla.

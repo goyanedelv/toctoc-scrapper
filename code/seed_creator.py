@@ -19,8 +19,3 @@ with open(f"data/seed/automated_seed_{time_tag}.txt", "w", encoding="utf-8") as 
 # 3 semillas por archivo y correr un proceso bash
 
 ## omitir
-#import os
-#
-#arr = os.listdir("data/seed/")
-#for i in arr:
-#    print(f"python code/_main.py {i}")

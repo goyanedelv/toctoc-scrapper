@@ -1,2 +1,2 @@
 chromedriver: C:/Users/goyan/Documents/Software/chromedriver_win32/101/chromedriver.exe
-error_tolerance: 20
+error_tolerance: 5

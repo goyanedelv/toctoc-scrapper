@@ -71,20 +71,30 @@ def get_particulares(time_tag, parameters):
         try:
             driver.get(line.replace("\n",""))
 
-            #time.sleep(4)
+            time.sleep(4)
 
-            element = WebDriverWait(driver, 3).until(
+            element = WebDriverWait(driver, 4).until(
                 EC.presence_of_element_located((By.XPATH, "//div[contains(@class, 'precio-b') or contains(@class, 'precio-ficha')]"))
             )
             all_info.append(element.text)
+
+            element_3 = WebDriverWait(driver, 3).until(
+                EC.presence_of_element_located((By.XPATH, "//h1[contains(@class, 'tt-ficha')]"))
+            )
+            all_info.append('header:')
+            all_info.append(element_3.text)
+
             element_2 = WebDriverWait(driver, 3).until(
                 EC.presence_of_element_located((By.XPATH, "//ul[contains(@class, 'info_ficha')]"))
             )
+            #element_2 = WebDriverWait(driver, 4).until(
+            #    EC.presence_of_element_located((By.CLASS_NAME, "info_ficha"))
+            #)
             all_info.append(element_2.text)
             all_info.append("-------------------------------------------------")
 
         except TimeoutException as ex:
-            print(f"\nNos habrán pillaron? - {ex}")
+            print(f"\nNos habrán pillado?- \n\n{ex}")
             error_counter += 1
             print(f"\nErrores acumulados: {error_counter}")
 
@@ -130,10 +140,9 @@ def get_full_site(time_tag, parameters):
             element = driver.page_source
             all_info.append(element)
             all_info.append("-------------------------------------------------")
-            print('hop')
 
         except TimeoutException as ex:
-            print(f"\nNos pillaron? - {ex}")
+            print(f"\nNos habrán pillado? - \n\n{ex}")
             error_counter += 1
             print(f"\nErrores acumulados: {error_counter}")
 
